@@ -9,6 +9,7 @@ separate bigger list in future.
 
 * [ML] Stanford CS229 Fall 2018 by Andrew Ng
   + http://cs229.stanford.edu/syllabus-autumn2018.html
+  + [(YouTube) Stanford CS229 | Machine Learning | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [ML] Learning from Data by Abu Mostafa, Caltech
   + https://work.caltech.edu/telecourse
 * [ML] Mining Massive Datasets
