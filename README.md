@@ -47,6 +47,7 @@ But we can create a maintain a separate bigger list in future.
   + https://github.com/alexeygrigorev/data-science-interviews
   + https://ds-interviews.org/awesome.html
 * [ML.Interview] [4 Types of Interview Questions for DS & ML](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b)
+* [ML.DL.Code] Keras Code Examples (https://keras.io/examples/)
 
 
 ## Articles / Blogs
@@ -77,6 +78,7 @@ But we can create a maintain a separate bigger list in future.
   + [DL] Group Convolutions (http://colah.github.io/posts/2014-12-Groups-Convolution/)
   + [Info] Visual Information Theory (http://colah.github.io/posts/2015-09-Visual-Information/)
   + [PhD] Do I Need to Go to University? (http://colah.github.io/posts/2020-05-University/)
+* [DL] [Understanding GRU Networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be)
 * [MLE.MLD] Machine Learning Yearnings by Andrew Ng (Downloadable from https://www.deeplearning.ai/programs/)
 * [ML] Approacing Almost Any Machine Learning Problem by Abhishek Thakur (https://github.com/abhishekkrthakur/approachingalmost)
 * [MLE.MLD] Machine Learning Engineering by Andriy Burkov (http://www.mlebook.com/wiki/doku.php)
@@ -85,4 +87,4 @@ But we can create a maintain a separate bigger list in future.
 * [NLP] [Understanding BERT Transformer: Attention isn't all you need](https://medium.com/synapse-dev/understanding-bert-transformer-attention-isnt-all-you-need-5839ebd396db)
 * [NLP] [Some Examples of Applying BERT in Specific Domain](https://towardsdatascience.com/how-to-apply-bert-in-scientific-domain-2d9db0480bd9)
 * [NLP] Berkeley Neural Parser (https://github.com/nikitakit/self-attentive-parser)
-
+* [NLP.Address] [AddressNet: Robust Street Address Parser](https://towardsdatascience.com/addressnet-how-to-build-a-robust-street-address-parser-using-a-recurrent-neural-network-518d97b9aebd)
