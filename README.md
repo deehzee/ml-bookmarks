@@ -1,8 +1,8 @@
 # ML Bookmarks
 
-Bookmarks for free machine learning resources on the web. This is not exhaustive by anymeans.
-This is mainly for what I am currently reading/following. But we can create a maintain a
-separate bigger list in future.
+Bookmarks for free (some are on medium - nonfree) machine learning resources on the web.
+This is not exhaustive by anymeans. This is mainly for what I am currently reading/following.
+But we can create a maintain a separate bigger list in future.
 
 
 ## Courses
@@ -82,3 +82,7 @@ separate bigger list in future.
 * [MLE.MLD] Machine Learning Engineering by Andriy Burkov (http://www.mlebook.com/wiki/doku.php)
 * [ML.Interview] [4 Types of Interview Questions for DS & ML](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b)
 * [ML] [Feature Engineering Deep Diving: Binning & Encoding](https://towardsdatascience.com/feature-engineering-deep-dive-into-encoding-and-binning-techniques-5618d55a6b38)
+* [NLP] [Understanding BERT Transformer: Attention isn't all you need](https://medium.com/synapse-dev/understanding-bert-transformer-attention-isnt-all-you-need-5839ebd396db)
+* [NLP] [Some Examples of Applying BERT in Specific Domain](https://towardsdatascience.com/how-to-apply-bert-in-scientific-domain-2d9db0480bd9)
+* [NLP] Berkeley Neural Parser (https://github.com/nikitakit/self-attentive-parser)
+
