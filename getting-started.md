@@ -64,7 +64,8 @@ To get started, I would advice to have three tracks:
     - Learn Python (checkout Python.org tutorial first) and setup Anaconda environment and familiarize yourself with jupyter notebook and ipython.
     - Should be comfortable with if..else, loops, functions, iterators, generators, strings, context, classes, lambdas, decorators etc.)
     - Learn the Data Science stack on Python (numpy, pandas, scikit-learn). One good resource is Python Data Science Handbook (see recommended links). There are many others.
-    - Learn SQL.
+    - Learn SQL
+    - Be familiar with common toolings: conda, git, Github, Jupyter notebooks, ...
   * Machine Learning (There are many courses on the internet. I found Andrew Ng's course on Coursera the best starting point. Many reputed US university has websites of their courses: like MIT, Stanford, CMU, ...). Google is your friend!
 
 3. Hands-on experience:
