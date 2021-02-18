@@ -8,6 +8,7 @@
 ## Papers
 
 * Deep Contextual Embeddings for Address Classification in E-commerce (https://arxiv.org/abs/2007.03020)
+* Learning Locality Maps from Noisy Geospatial Labels (https://www.cse.iitd.ac.in/~dahiya/loc-maps-sac20.pdf)
 
 
 ## Unrelated
