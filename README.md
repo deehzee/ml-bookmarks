@@ -31,6 +31,8 @@ But we can create a maintain a separate bigger list in future.
   + https://stanford-cs329s.github.io/syllabus.html
 * [MLD] Full Stack Deep Learning, Fall 2019
   + https://fall2019.fullstackdeeplearning.com/
+* [ML] Scalable Machine Learning by Alex Smola at Berkeley in 2012
+  + http://alex.smola.org/teaching/berkeley2012/
 * [ML] Machine Learning by Google Developer
   + https://developers.google.com/machine-learning/crash-course
 
@@ -88,3 +90,16 @@ But we can create a maintain a separate bigger list in future.
 * [NLP] [Some Examples of Applying BERT in Specific Domain](https://towardsdatascience.com/how-to-apply-bert-in-scientific-domain-2d9db0480bd9)
 * [NLP] Berkeley Neural Parser (https://github.com/nikitakit/self-attentive-parser)
 * [NLP.Address] [AddressNet: Robust Street Address Parser](https://towardsdatascience.com/addressnet-how-to-build-a-robust-street-address-parser-using-a-recurrent-neural-network-518d97b9aebd)
+
+
+## Getting Started
+
+* [Advice] Data Science Career Advice of College Students (https://www.springboard.com/blog/data-scientist-training-college/)
+* [DS.ML] [52 Week Curriculum for Data Science in 2021 by Terrence Shin](https://towardsdatascience.com/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160)
+* [Stat] StatQuest (https://statquest.org/video-index/)
+* [Math.DS.ML] [Great contents from 3Blue1Brown on YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+* [LinAlg] Linear Algebra Video Lectures by Strang at MIT in 2010 (https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+* [DS.ML] Python Data Science Handbook (https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [PhD] Do I Need to Go to University? (http://colah.github.io/posts/2020-05-University/)
+* [PhD] A Survival Guide to a PhD (http://karpathy.github.io/2016/09/07/phd/)
+
