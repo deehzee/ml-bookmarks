@@ -52,6 +52,14 @@ But we can create a maintain a separate bigger list in future.
 * [ML.DL.Code] Keras Code Examples (https://keras.io/examples/)
 
 
+## Books
+
+* [MLE.MLD] Machine Learning Yearnings by Andrew Ng (Downloadable from https://www.deeplearning.ai/programs/)
+* [ML] Approacing Almost Any Machine Learning Problem by Abhishek Thakur (https://github.com/abhishekkrthakur/approachingalmost)
+* [MLE.MLD] Machine Learning Engineering by Andriy Burkov (http://www.mlebook.com/wiki/doku.php)
+* [DL] Deep Learning Book (https://www.deeplearningbook.org/)
+
+
 ## Articles / Blogs
 
 * [NLP] NLP Overview (https://nlpoverview.com/)
@@ -81,9 +89,6 @@ But we can create a maintain a separate bigger list in future.
   + [Info] Visual Information Theory (http://colah.github.io/posts/2015-09-Visual-Information/)
   + [PhD] Do I Need to Go to University? (http://colah.github.io/posts/2020-05-University/)
 * [DL] [Understanding GRU Networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be)
-* [MLE.MLD] Machine Learning Yearnings by Andrew Ng (Downloadable from https://www.deeplearning.ai/programs/)
-* [ML] Approacing Almost Any Machine Learning Problem by Abhishek Thakur (https://github.com/abhishekkrthakur/approachingalmost)
-* [MLE.MLD] Machine Learning Engineering by Andriy Burkov (http://www.mlebook.com/wiki/doku.php)
 * [ML.Interview] [4 Types of Interview Questions for DS & ML](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b)
 * [ML] [Feature Engineering Deep Diving: Binning & Encoding](https://towardsdatascience.com/feature-engineering-deep-dive-into-encoding-and-binning-techniques-5618d55a6b38)
 * [NLP] [Understanding BERT Transformer: Attention isn't all you need](https://medium.com/synapse-dev/understanding-bert-transformer-attention-isnt-all-you-need-5839ebd396db)
