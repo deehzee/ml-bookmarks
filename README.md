@@ -29,8 +29,9 @@ But we can create a maintain a separate bigger list in future.
 * [ML] [Cornell CS5787: Applied Machine Learning, Fall 2020 (YouTube)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 * [MLD] Stanford CS329S: Machine Learning System Design, Spring 2021
   + https://stanford-cs329s.github.io/syllabus.html
-* [MLD] Full Stack Deep Learning, Fall 2019
-  + https://fall2019.fullstackdeeplearning.com/
+* [MLD] Full Stack Deep Learning
+  + Fall 2019 (https://fall2019.fullstackdeeplearning.com/)
+  + Spring 2021 (https://fullstackdeeplearning.com/spring2021/)
 * [ML] Scalable Machine Learning by Alex Smola at Berkeley in 2012
   + http://alex.smola.org/teaching/berkeley2012/
 * [ML] Machine Learning by Google Developer
