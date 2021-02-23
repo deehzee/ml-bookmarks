@@ -94,6 +94,11 @@ Try to get internships.
 * [DS.ML] Python Data Science Handbook (https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [PhD] Do I Need to Go to University? (http://colah.github.io/posts/2020-05-University/)
 * [PhD] A Survival Guide to a PhD (http://karpathy.github.io/2016/09/07/phd/)
+* [ML] Probabilistic Programming and Bayesian Methods for Hackers by Davidson-Pilon (with PyMC3 and TFP)
+  + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+  + https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+* [ML] Introduction to Statistical Learning (ISLR) by James, Witten, Hastie and Tibshirani (https://www.statlearning.com/)
+
 
 **TIP**: If blog posts on medium.com or towardsdatascience.com asks you for subscription, try to read them on incognito mode.
 
