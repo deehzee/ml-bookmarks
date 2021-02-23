@@ -55,10 +55,18 @@ But we can create a maintain a separate bigger list in future.
 
 ## Books
 
-* [MLE.MLD] Machine Learning Yearnings by Andrew Ng (Downloadable from https://www.deeplearning.ai/programs/)
+* [ML.MLE.MLD] Machine Learning Yearnings by Andrew Ng (Downloadable from https://www.deeplearning.ai/programs/)
 * [ML] Approacing Almost Any Machine Learning Problem by Abhishek Thakur (https://github.com/abhishekkrthakur/approachingalmost)
-* [MLE.MLD] Machine Learning Engineering by Andriy Burkov (http://www.mlebook.com/wiki/doku.php)
-* [DL] Deep Learning Book (https://www.deeplearningbook.org/)
+* [ML.MLE.MLD] Machine Learning Engineering by Andriy Burkov (http://www.mlebook.com/wiki/doku.php)
+* [DL] Deep Learning Book by Goodfellow, Bengio and Courville (https://www.deeplearningbook.org/)
+* [DL] Dive into Deep Learning by Zhang, Lipton, Li and Smola (https://d2l.ai/)
+* [ML] Probabilistic Machine Learning by Kevin Murphy (https://probml.github.io/pml-book/)
+* [ML] Introduction to Statistical Learning (ISLR) by James, Witten, Hastie and Tibshirani (https://www.statlearning.com/)
+* [ML] Elements of Statistical Learning (ESL) by Hastie, Tibshirani and Friedman (https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [ML] Probabilistic Programming and Bayesian Methods for Hackers by Davidson-Pilon (with PyMC3 and TFP)
+  + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+  + https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+* [DS.ML] Python Data Science Handbook (https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 
 ## Articles / Blogs
