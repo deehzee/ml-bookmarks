@@ -61,8 +61,8 @@ But we can create a maintain a separate bigger list in future.
 * [DL] Deep Learning Book by Goodfellow, Bengio and Courville (https://www.deeplearningbook.org/)
 * [DL] Dive into Deep Learning by Zhang, Lipton, Li and Smola (https://d2l.ai/)
 * [ML] Probabilistic Machine Learning by Kevin Murphy (https://probml.github.io/pml-book/)
-* [ML] Introduction to Statistical Learning (ISLR) by James, Witten, Hastie and Tibshirani (https://www.statlearning.com/)
 * [ML] Elements of Statistical Learning (ESL) by Hastie, Tibshirani and Friedman (https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [ML] Introduction to Statistical Learning (ISLR) by James, Witten, Hastie and Tibshirani (https://www.statlearning.com/)
 * [ML] Probabilistic Programming and Bayesian Methods for Hackers by Davidson-Pilon (with PyMC3 and TFP)
   + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
   + https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
@@ -116,4 +116,7 @@ But we can create a maintain a separate bigger list in future.
 * [DS.ML] Python Data Science Handbook (https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [PhD] Do I Need to Go to University? (http://colah.github.io/posts/2020-05-University/)
 * [PhD] A Survival Guide to a PhD (http://karpathy.github.io/2016/09/07/phd/)
-
+* [ML] Probabilistic Programming and Bayesian Methods for Hackers by Davidson-Pilon (with PyMC3 and TFP)
+  + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+  + https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+* [ML] Introduction to Statistical Learning (ISLR) by James, Witten, Hastie and Tibshirani (https://www.statlearning.com/)
