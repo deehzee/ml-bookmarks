@@ -122,3 +122,6 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
   + https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 * [ML] Introduction to Statistical Learning (ISLR) by James, Witten, Hastie and Tibshirani (https://www.statlearning.com/)
+* [DS] Data Science @OSSU (https://github.com/ossu/data-science)
+* [CS] Computer Science @OSSU (https://github.com/ossu/computer-science)
+
