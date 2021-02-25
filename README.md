@@ -97,6 +97,8 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + [DL] Group Convolutions (http://colah.github.io/posts/2014-12-Groups-Convolution/)
   + [Info] Visual Information Theory (http://colah.github.io/posts/2015-09-Visual-Information/)
   + [PhD] Do I Need to Go to University? (http://colah.github.io/posts/2020-05-University/)
+* [NLP] Sebastian Ruder's Blog (https://ruder.io/)
+  + [DL] https://ruder.io/optimizing-gradient-descent/
 * [DL] [Understanding GRU Networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be)
 * [ML.Interview] [4 Types of Interview Questions for DS & ML](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b)
 * [ML] [Feature Engineering Deep Diving: Binning & Encoding](https://towardsdatascience.com/feature-engineering-deep-dive-into-encoding-and-binning-techniques-5618d55a6b38)
