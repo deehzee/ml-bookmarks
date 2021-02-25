@@ -98,6 +98,8 @@ Try to get internships.
   + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
   + https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 * [ML] Introduction to Statistical Learning (ISLR) by James, Witten, Hastie and Tibshirani (https://www.statlearning.com/)
+* [DS] Data Science @OSSU (https://github.com/ossu/data-science)
+* [CS] Computer Science @OSSU (https://github.com/ossu/computer-science)
 
 
 **TIP**: If blog posts on medium.com or towardsdatascience.com asks you for subscription, try to read them on incognito mode.
