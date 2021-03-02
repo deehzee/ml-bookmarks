@@ -13,6 +13,7 @@ This is what I need to stick to and follow through. Regularity is the key.
 
 Bandwidth at most 3 at the same time.
 
+<!--
 - [ ] [MIT 6.S191 Introduction to Deep Learning, Spring 2021](http://introtodeeplearning.com/)
 - [ ] [Coursera: Data Structure and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
   - [x] ~[Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)~
@@ -22,6 +23,11 @@ Bandwidth at most 3 at the same time.
   - [ ] [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity)
   - [ ] [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes)
 - [ ] [Udacity: Networking for Web Developers](https://classroom.udacity.com/courses/ud256)
+-->
+- [ ] [Coursera: Data Engineering, Big Data and ML on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
+- [ ] [Coursera: Machine Learning with TensorFlow on GCP Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+- [ ] [Coursera: Advanced ML with TensorFlow on GCP Spcialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp#courses)
+
  
 
 ### Done
@@ -32,6 +38,9 @@ Bandwidth at most 3 at the same time.
 
 ### Partial Laundry List
 
+- [ ] [Coursera: Data Engineering, Big Data and ML on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
+- [ ] [Coursera: Machine Learning with TensorFlow on GCP Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+- [ ] [Coursera: Advanced ML with TensorFlow on GCP Spcialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp#courses)
 - [ ] [Coursera: Data Structure and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 - [ ] [Coursera: Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml)
 - [ ] [Coursera: Advanced Data Science with IBM Specializati- on](https://www.coursera.org/specializations/advanced-data-science-ibm)
