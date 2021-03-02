@@ -36,7 +36,10 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + http://alex.smola.org/teaching/berkeley2012/
 * [ML] Machine Learning by Google Developer
   + https://developers.google.com/machine-learning/crash-course
-
+* [ML] Tom Michell's courses
+  + Machine Learning 10-601 @CMU in Spring 2015 by Mitchell and Balcan with video (http://www.cs.cmu.edu/~ninamf/courses/601sp15/)
+  + Tom Mitchell's university page (http://www.cs.cmu.edu/~tom/)
+  + Maria-Florina Balcan's university page (http://www.cs.cmu.edu/~ninamf/)
  
 ## Resource Compilations
 
