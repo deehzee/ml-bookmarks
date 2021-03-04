@@ -26,7 +26,7 @@ Bandwidth at most 3 at the same time.
 -->
 - [ ] [Coursera: Data Engineering, Big Data and ML on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
 - [ ] [Coursera: Machine Learning with TensorFlow on GCP Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
-- [ ] [Coursera: Advanced ML with TensorFlow on GCP Spcialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp#courses)
+- [ ] [Coursera: Advanced ML with TensorFlow on GCP Spcialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
 
  
 
@@ -40,7 +40,7 @@ Bandwidth at most 3 at the same time.
 
 - [ ] [Coursera: Data Engineering, Big Data and ML on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
 - [ ] [Coursera: Machine Learning with TensorFlow on GCP Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
-- [ ] [Coursera: Advanced ML with TensorFlow on GCP Spcialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp#courses)
+- [ ] [Coursera: Advanced ML with TensorFlow on GCP Spcialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
 - [ ] [Coursera: Data Structure and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 - [ ] [Coursera: Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml)
 - [ ] [Coursera: Advanced Data Science with IBM Specializati- on](https://www.coursera.org/specializations/advanced-data-science-ibm)
