@@ -116,6 +116,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [Advice] Data Science Career Advice of College Students (https://www.springboard.com/blog/data-scientist-training-college/)
 * [DS.ML] [52 Week Curriculum for Data Science in 2021 by Terrence Shin](https://towardsdatascience.com/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160)
 * [Stat] StatQuest (https://statquest.org/video-index/)
+* [Math] Mathematics for Machine Learning (https://mml-book.github.io/)
 * [Math.DS.ML] [Great contents from 3Blue1Brown on YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [LinAlg] Linear Algebra Video Lectures by Strang at MIT in 2010 (https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 * [DS.ML] Python Data Science Handbook (https://jakevdp.github.io/PythonDataScienceHandbook/)
