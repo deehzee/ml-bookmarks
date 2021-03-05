@@ -17,4 +17,6 @@
 * Netflix Tech Blog (https://netflixtechblog.com/)
 * Facebook Engineering (https://engineering.fb.com/)
   + ML Applications @FB (https://engineering.fb.com/category/ml-applications/)
-    - [How ML powers FB's News Feed Ranking Algorithm](https://engineering.fb.com/2021/01/26/ml-applications/news-feed-ranking/)
+    - [How ML Powers FB's News Feed Ranking Algorithm](https://engineering.fb.com/2021/01/26/ml-applications/news-feed-ranking/)
+    - [Self-supervised Learning](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence)
+* Tree-Transformer (https://arxiv.org/abs/1908.00449)
