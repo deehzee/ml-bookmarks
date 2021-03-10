@@ -109,7 +109,12 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [NLP] [Some Examples of Applying BERT in Specific Domain](https://towardsdatascience.com/how-to-apply-bert-in-scientific-domain-2d9db0480bd9)
 * [NLP] Berkeley Neural Parser (https://github.com/nikitakit/self-attentive-parser)
 * [NLP.Address] [AddressNet: Robust Street Address Parser](https://towardsdatascience.com/addressnet-how-to-build-a-robust-street-address-parser-using-a-recurrent-neural-network-518d97b9aebd)
-
+* Netflix Tech Blog (https://netflixtechblog.com)
+* Facebook Blog
+  + Engineering @FB (https://engineering.fb.com)
+  + ML Applications @FB (https://engineering.fb.com/category/ml-applications/)
+  + [[How ML Powers FB's News Feed Ranking Algorithm](https://engineering.fb.com/2021/01/26/ml-applications/news-feed-ranking/)
+  + [Self-supervised Learning](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence)
 
 ## Getting Started
 
