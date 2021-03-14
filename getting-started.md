@@ -102,6 +102,7 @@ Try to get internships.
 * [ML] Introduction to Statistical Learning (ISLR) by James, Witten, Hastie and Tibshirani (https://www.statlearning.com/)
 * [DS] Data Science @OSSU (https://github.com/ossu/data-science)
 * [CS] Computer Science @OSSU (https://github.com/ossu/computer-science)
+* [Prob.Stat] Seeing Theory: A Visual Introduction to Probability and Statistics (https://seeing-theory.brown.edu/)
 
 
 **TIP**: If blog posts on medium.com or towardsdatascience.com asks you for subscription, try to read them on incognito mode.
