@@ -49,6 +49,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [MLD] Applied ML (https://github.com/eugeneyan/applied-ml)
 * [ML.DL.NLP] ML Surveys (https://github.com/eugeneyan/ml-surveys)
 * [NLP] The NLP Pandect (https://github.com/ivan-bilan/The-NLP-Pandect)
+* [SystemDesign] https://github.com/donnemartin/system-design-primer
 * [DS.ML.Interview] Data Science Interviews
   + https://github.com/alexeygrigorev/data-science-interviews
   + https://ds-interviews.org/awesome.html
