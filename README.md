@@ -120,6 +120,10 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + [[How ML Powers FB's News Feed Ranking Algorithm](https://engineering.fb.com/2021/01/26/ml-applications/news-feed-ranking/)
   + [Self-supervised Learning](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence)
 * [ML] Elvis's Blog (https://elvissaravia.substack.com/archive)
+* [ML.NLP.DL] Eugene Yan's Blog (https://eugeneyan.com/)
+  - [ML] On RecSys (https://eugeneyan.com/tag/recsys/)
+  - [ML] RecSys 2020 - Takeaways and Notable Papers (https://eugeneyan.com/writing/recsys2020/)
+  - [Ld] On Leadership (https://eugeneyan.com/tag/leadership/)
 
 
 ## Getting Started
