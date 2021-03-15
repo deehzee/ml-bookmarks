@@ -20,6 +20,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + [(YouTube) CS246, Mining Massive Data Sets](https://www.youtube.com/playlist?list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR)
 * [DL] MIT 6.S191 Introduction to Deep Learning (Spring 2021)
   + http://introtodeeplearning.com/
+* [DL] [UC Berkeley CS182 Spring 2021: Deep Learning on YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 * [DL] NYU Deep Learning (Spring 2020)
   + https://atcold.github.io/pytorch-Deep-Learning/
   + [(YouTube) Deep Learning with Pytorch](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
