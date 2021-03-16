@@ -23,11 +23,11 @@ Bandwidth at most 3 at the same time.
   - [ ] [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity)
   - [ ] [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes)
 - [ ] [Udacity: Networking for Web Developers](https://classroom.udacity.com/courses/ud256)
--->
-- [ ] [Coursera: Data Engineering, Big Data and ML on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
 - [ ] [Coursera: Machine Learning with TensorFlow on GCP Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
 - [ ] [Coursera: Advanced ML with TensorFlow on GCP Spcialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
-
+-->
+- [ ] [Coursera: Data Engineering, Big Data and ML on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
+- [ ] Stanford CS224W: Machine Learning with Graphs ([YouTube-Autumn2019](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE), [Materials](http://web.stanford.edu/class/cs224w/))
  
 
 ### Done
@@ -35,7 +35,7 @@ Bandwidth at most 3 at the same time.
 - [ ] [Coursera: Data Structure and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
   - [X] ~[Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)~
 
-
+<!-- Not for display
 ### Partial Laundry List
 
 - [ ] [Coursera: Data Engineering, Big Data and ML on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
@@ -55,5 +55,5 @@ Bandwidth at most 3 at the same time.
 - [ ] [Udacity: Intro to JavaScript](https://classroom.udacity.com/courses/ud803)
 - [ ] [Udacity: Intro to Scalable Apps in Python](https://classroom.udacity.com/courses/ud858)
 - [ ] [Udacity: Designing RESTful APIs](https://classroom.udacity.com/courses/ud388)
-
+-->
 
