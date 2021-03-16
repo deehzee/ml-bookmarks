@@ -42,7 +42,11 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + Tom Mitchell's university page (http://www.cs.cmu.edu/~tom/)
   + Maria-Florina Balcan's university page (http://www.cs.cmu.edu/~ninamf/)
 * [CMU Neural Nets for NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
- 
+* [ML.GNN] Stanford CS224W: Machine Learning with Graphs
+  - Winter 2021 by Jure Leskovec (http://web.stanford.edu/class/cs224w/)
+  - [Autumn 2019 on YouTube by Jure Leskovec](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
+
+
 ## Resource Compilations
 
 * [DS] [52 Week Curriculum for Data Science in 2021 by Terrence Shin](https://towardsdatascience.com/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160)
