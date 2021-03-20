@@ -45,6 +45,12 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [ML.GNN] Stanford CS224W: Machine Learning with Graphs
   - Winter 2021 by Jure Leskovec (http://web.stanford.edu/class/cs224w/)
   - [Autumn 2019 on YouTube by Jure Leskovec](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
+* [ML] Harvard CS181: Machine Learning (https://harvard-ml-courses.github.io/cs181-web/)
+* [Web] Harvard CS50x: Intro CS & Web (https://cs50.harvard.edu/x/2021/)
+* [Web] Harvard CS50: Web Programming with Python and JavaScript (https://cs50.harvard.edu/web/2020/)
+* [Web] Harvard CS75: Building Dynamic Website by David J Malan
+  - http://cs75.tv/2012/summer/
+  - [YouTube](https://www.youtube.com/playlist?list=PLSlcu3sMjsc9QoiHpdEWF246A4eVCjBUQ)
 
 
 ## Resource Compilations
