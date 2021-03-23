@@ -35,6 +35,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + Spring 2021 (https://fullstackdeeplearning.com/spring2021/)
 * [ML] Scalable Machine Learning by Alex Smola at Berkeley in 2012
   + http://alex.smola.org/teaching/berkeley2012/
+* [DL] [Deep Learning Crash Course 2021 by Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)
 * [ML] Machine Learning by Google Developer
   + https://developers.google.com/machine-learning/crash-course
 * [ML] Tom Michell's courses
