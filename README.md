@@ -3,6 +3,7 @@
 Bookmarks for free (some are on medium - nonfree) machine learning resources on the web.
 This is not exhaustive by any means. This is mainly for what I am currently reading/following
 (or planning to do in near future) But we can create a maintain a separate bigger list in future.
+But it's already getting out of hand!
 
 
 ## Courses
@@ -20,6 +21,9 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + [(YouTube) CS246, Mining Massive Data Sets](https://www.youtube.com/playlist?list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR)
 * [DL] MIT 6.S191 Introduction to Deep Learning (Spring 2021)
   + http://introtodeeplearning.com/
+* [DL] Deep Learning by Fast.ai
+  - https://course.fast.ai/
+  - [YouTube Video Lectures by FreeCodeCamp.org](https://www.youtube.com/watch?v=0oyCUWLL_fU)
 * [DL] [UC Berkeley CS182 Spring 2021: Deep Learning on YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 * [DL] NYU Deep Learning (Spring 2020)
   + https://atcold.github.io/pytorch-Deep-Learning/
