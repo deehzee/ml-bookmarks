@@ -42,7 +42,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + Machine Learning 10-601 @CMU in Spring 2015 by Mitchell and Balcan with video (http://www.cs.cmu.edu/~ninamf/courses/601sp15/)
   + Tom Mitchell's university page (http://www.cs.cmu.edu/~tom/)
   + Maria-Florina Balcan's university page (http://www.cs.cmu.edu/~ninamf/)
-* [CMU Neural Nets for NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
+* [NLP.DL] [CMU Neural Nets for NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
 * [ML.GNN] Stanford CS224W: Machine Learning with Graphs
   - Winter 2021 by Jure Leskovec (http://web.stanford.edu/class/cs224w/)
   - [Autumn 2019 on YouTube by Jure Leskovec](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
