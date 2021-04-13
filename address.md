@@ -9,6 +9,7 @@
 
 * Deep Contextual Embeddings for Address Classification in E-commerce (https://arxiv.org/abs/2007.03020)
 * Learning Locality Maps from Noisy Geospatial Labels (https://www.cse.iitd.ac.in/~dahiya/loc-maps-sac20.pdf)
+* [A deep learning architecture for semantic address matching](https://www.researchgate.net/publication/336510907_A_deep_learning_architecture_for_semantic_address_matching)
 
 
 ## Unrelated
