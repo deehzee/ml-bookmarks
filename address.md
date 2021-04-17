@@ -5,6 +5,8 @@
 * [How Gojek Uses NLP to Name Pickup Locations at Scale](https://blog.gojekengineering.com/how-gojek-uses-nlp-to-name-pickup-locations-at-scale-ffdb249d1433)
 * [Learning meaningful location embeddings from unlabeled visits (Sentiance)](https://www.sentiance.com/2018/01/29/unlabeled-visits/)
 * [Location Location Location](https://towardsdatascience.com/location-location-location-ec2cc8a223b1)
+* [AddressNet: How to build a robust street address parser using a Recurrent Neural Network](https://towardsdatascience.com/addressnet-how-to-build-a-robust-street-address-parser-using-a-recurrent-neural-network-518d97b9aebd)
+  - [GitHub:jasonrig/address-net](https://github.com/jasonrig/address-net)
 
 
 ## Papers
