@@ -95,7 +95,7 @@ But it's already getting out of hand!
 * [Graph/Network/GameTh] Networks, Crowds, and Markets by Easley and Kleinberg (http://www.cs.cornell.edu/home/kleinber/networks-book/)
 
 
-## Articles / Blogs
+## Articles / Blogs / Talks
 
 * [NLP] NLP Overview (https://nlpoverview.com/)
 * Lilian Weng's Blog (https://lilianweng.github.io/lil-log/)
@@ -143,6 +143,7 @@ But it's already getting out of hand!
   - [ML] On RecSys (https://eugeneyan.com/tag/recsys/)
   - [ML] RecSys 2020 - Takeaways and Notable Papers (https://eugeneyan.com/writing/recsys2020/)
   - [Ld] On Leadership (https://eugeneyan.com/tag/leadership/)
+* [ML.GNN][Theoretical Foundations of Graph Neural Networks by Petar Veličković on YouTube](https://www.youtube.com/watch?v=uF53xsT7mjc)
 
 
 ## Getting Started
