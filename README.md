@@ -42,6 +42,7 @@ But it's already getting out of hand!
 * [DL] [Deep Learning Crash Course 2021 by Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)
 * [ML] Machine Learning by Google Developer
   + https://developers.google.com/machine-learning/crash-course
+* [ML.Prob] [Probabilistic Machine Learning - Philipp Hennig, 2021, Uni-Tuebingen (YouTube)](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 * [ML] Tom Michell's courses
   + Machine Learning 10-601 @CMU in Spring 2015 by Mitchell and Balcan with video (http://www.cs.cmu.edu/~ninamf/courses/601sp15/)
   + Tom Mitchell's university page (http://www.cs.cmu.edu/~tom/)
@@ -143,7 +144,7 @@ But it's already getting out of hand!
   - [ML] On RecSys (https://eugeneyan.com/tag/recsys/)
   - [ML] RecSys 2020 - Takeaways and Notable Papers (https://eugeneyan.com/writing/recsys2020/)
   - [Ld] On Leadership (https://eugeneyan.com/tag/leadership/)
-* [ML.GNN][Theoretical Foundations of Graph Neural Networks by Petar Veličković on YouTube](https://www.youtube.com/watch?v=uF53xsT7mjc)
+* [ML.GNN] [Theoretical Foundations of Graph Neural Networks by Petar Veličković on YouTube](https://www.youtube.com/watch?v=uF53xsT7mjc)
 
 
 ## Getting Started
