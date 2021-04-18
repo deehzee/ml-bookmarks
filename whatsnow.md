@@ -29,7 +29,7 @@ Bandwidth at most 3 at the same time.
 - [ ] [Coursera: Data Engineering, Big Data and ML on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
 - [ ] [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) ([YouTube-Autumn2019](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE))
  
-
+<!--
 ### Done
 
 - [ ] [Coursera: Data Structure and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
