@@ -2,8 +2,7 @@
 
 Bookmarks for free (some are on medium - nonfree) machine learning resources on the web.
 This is not exhaustive by any means. This is mainly for what I am currently reading/following
-(or planning to do in near future) But we can create a maintain a separate bigger list in future.
-But it's already getting out of hand!
+(or planning to do in near future).
 
 
 ## Courses
