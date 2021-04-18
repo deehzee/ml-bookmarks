@@ -18,6 +18,7 @@
 * [Embedding Geographic Locations for Modelling the Natural Environment using Flickr Tags and Structured Data](http://orca.cf.ac.uk/119323/1/ECIR2019.pdf)
 * [Location Embedding and Deep Convolutional Neural Networks for Next Location Prediction](https://hal.archives-ouvertes.fr/hal-02357778/document)
 * [Address Clustering for e-Commerce Applications (Flipkart)](http://ceur-ws.org/Vol-2319/paper8.pdf)
+* [Improving a Street-Based Geocoding Algorithm Using Machine Learning Techniques](https://www.mdpi.com/2076-3417/10/16/5628)
 
 <!--
 ## Unrelated
