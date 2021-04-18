@@ -24,6 +24,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   - https://course.fast.ai/
   - [YouTube Video Lectures by FreeCodeCamp.org](https://www.youtube.com/watch?v=0oyCUWLL_fU)
 * [DL] [UC Berkeley CS182 Spring 2021: Deep Learning on YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+  - [Course Mateirials: https://cs182sp21.github.io/](https://cs182sp21.github.io/)
 * [DL] NYU DS-GA 1008 Deep Learning (Spring 2020)
   + https://atcold.github.io/pytorch-Deep-Learning/
   + [(YouTube) Deep Learning with Pytorch](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
