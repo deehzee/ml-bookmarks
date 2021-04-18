@@ -26,6 +26,7 @@ Bandwidth at most 3 at the same time.
 - [ ] [Coursera: Machine Learning with TensorFlow on GCP Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
 - [ ] [Coursera: Advanced ML with TensorFlow on GCP Spcialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
 -->
+<!--
 - [ ] [Coursera: Data Engineering, Big Data and ML on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
 - [ ] [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) ([YouTube-Autumn2019](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE))
  
