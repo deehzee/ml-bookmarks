@@ -43,7 +43,7 @@ But it's already getting out of hand!
 * [ML] Machine Learning by Google Developer
   + https://developers.google.com/machine-learning/crash-course
 * [ML.Prob] [Probabilistic Machine Learning - Philipp Hennig, 2021, Uni-Tuebingen (YouTube)](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
-  + [Course contents from Universität Tübingen](https://uni-tuebingen.de/en/180804)
+  + [Course contents from Universität Tübingen, Summer 2020](https://uni-tuebingen.de/en/180804)
 * [ML] Tom Michell's courses
   + Machine Learning 10-601 @CMU in Spring 2015 by Mitchell and Balcan with video (http://www.cs.cmu.edu/~ninamf/courses/601sp15/)
   + Tom Mitchell's university page (http://www.cs.cmu.edu/~tom/)
