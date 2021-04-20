@@ -97,6 +97,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
   + https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 * [DS.ML] Python Data Science Handbook (https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [ML] Interpretable Machine Learning (https://christophm.github.io/interpretable-ml-book/)
 * [DL.GNN] Graph Representation Learning Book by Hamilton (https://www.cs.mcgill.ca/~wlh/grl_book/)
 * [Graph/Network] Network Science Book by Barabási (http://networksciencebook.com/)
 * [Graph/Network/GameTh] Networks, Crowds, and Markets by Easley and Kleinberg (http://www.cs.cornell.edu/home/kleinber/networks-book/)
