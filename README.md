@@ -26,6 +26,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + Tom Mitchell's university page (http://www.cs.cmu.edu/~tom/)
   + Maria-Florina Balcan's university page (http://www.cs.cmu.edu/~ninamf/)
 * [ML] Harvard CS181: Machine Learning (https://harvard-ml-courses.github.io/cs181-web/)
+* [ML] Machine Learning Crash Course by Google (https://developers.google.com/machine-learning/crash-course)
 * [ML.Prob] [Probabilistic Machine Learning - Philipp Hennig, 2021, Uni-Tuebingen (YouTube)](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
   + [Course contents from Universität Tübingen, Summer 2020](https://uni-tuebingen.de/en/180804)
 * [ML] Scalable Machine Learning by Alex Smola at Berkeley in 2012
