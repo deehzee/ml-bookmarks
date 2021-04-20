@@ -18,6 +18,23 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + http://infolab.stanford.edu/~ullman/mining/2009/index.html
   + [(YouTube) Mining Massive Datasets Stanford University [Full Course]](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
   + [(YouTube) CS246, Mining Massive Data Sets](https://www.youtube.com/playlist?list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR)
+* [ML] [Cornell CS5787: Applied Machine Learning, Fall 2020 (YouTube)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+* [ML] Machine Learning by Google Developer
+  + https://developers.google.com/machine-learning/crash-course
+* [ML] Tom Michell's courses
+  + Machine Learning 10-601 @CMU in Spring 2015 by Mitchell and Balcan with video (http://www.cs.cmu.edu/~ninamf/courses/601sp15/)
+  + Tom Mitchell's university page (http://www.cs.cmu.edu/~tom/)
+  + Maria-Florina Balcan's university page (http://www.cs.cmu.edu/~ninamf/)
+* [ML] Harvard CS181: Machine Learning (https://harvard-ml-courses.github.io/cs181-web/)
+* [ML.Prob] [Probabilistic Machine Learning - Philipp Hennig, 2021, Uni-Tuebingen (YouTube)](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
+  + [Course contents from Universität Tübingen, Summer 2020](https://uni-tuebingen.de/en/180804)
+* [ML] Scalable Machine Learning by Alex Smola at Berkeley in 2012
+  + http://alex.smola.org/teaching/berkeley2012/
+* [MLD] Stanford CS329S: Machine Learning System Design, Spring 2021
+  + https://stanford-cs329s.github.io/syllabus.html
+* [MLD] Full Stack Deep Learning
+  + Fall 2019 (https://fall2019.fullstackdeeplearning.com/)
+  + Spring 2021 (https://fullstackdeeplearning.com/spring2021/)
 * [DL] MIT 6.S191 Introduction to Deep Learning (Spring 2021)
   + http://introtodeeplearning.com/
 * [DL] Deep Learning by Fast.ai
@@ -30,29 +47,12 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + [(YouTube) Deep Learning with Pytorch](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 * [DL] T81 558: Applications of Deep Neural Networks by Jeff Heaton, Washington University at St Louis
   + https://github.com/jeffheaton/t81_558_deep_learning
-* [NLP] [Stanford CS224N: Natural Language Processing with Deep Learning (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-* [ML] [Cornell CS5787: Applied Machine Learning, Fall 2020 (YouTube)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
-* [MLD] Stanford CS329S: Machine Learning System Design, Spring 2021
-  + https://stanford-cs329s.github.io/syllabus.html
-* [MLD] Full Stack Deep Learning
-  + Fall 2019 (https://fall2019.fullstackdeeplearning.com/)
-  + Spring 2021 (https://fullstackdeeplearning.com/spring2021/)
-* [ML] Scalable Machine Learning by Alex Smola at Berkeley in 2012
-  + http://alex.smola.org/teaching/berkeley2012/
 * [DL] [Deep Learning Crash Course 2021 by Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)
-* [ML] Machine Learning by Google Developer
-  + https://developers.google.com/machine-learning/crash-course
-* [ML.Prob] [Probabilistic Machine Learning - Philipp Hennig, 2021, Uni-Tuebingen (YouTube)](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
-  + [Course contents from Universität Tübingen, Summer 2020](https://uni-tuebingen.de/en/180804)
-* [ML] Tom Michell's courses
-  + Machine Learning 10-601 @CMU in Spring 2015 by Mitchell and Balcan with video (http://www.cs.cmu.edu/~ninamf/courses/601sp15/)
-  + Tom Mitchell's university page (http://www.cs.cmu.edu/~tom/)
-  + Maria-Florina Balcan's university page (http://www.cs.cmu.edu/~ninamf/)
+* [NLP.DL] [Stanford CS224N: Natural Language Processing with Deep Learning (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 * [NLP.DL] [CMU Neural Nets for NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
 * [ML.GNN] Stanford CS224W: Machine Learning with Graphs
   + Winter 2021 by Jure Leskovec (http://web.stanford.edu/class/cs224w/)
   + [Autumn 2019 on YouTube by Jure Leskovec](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
-* [ML] Harvard CS181: Machine Learning (https://harvard-ml-courses.github.io/cs181-web/)
 * [Web] Web development skills may add another dimesion for building products
   + [Web] Harvard CS50x: Intro CS & Web (https://cs50.harvard.edu/x/2021/)
   + [Web] Harvard CS50: Web Programming with Python and JavaScript (https://cs50.harvard.edu/web/2020/)
