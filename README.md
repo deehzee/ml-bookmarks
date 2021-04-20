@@ -21,10 +21,10 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [DL] MIT 6.S191 Introduction to Deep Learning (Spring 2021)
   + http://introtodeeplearning.com/
 * [DL] Deep Learning by Fast.ai
-  - https://course.fast.ai/
-  - [YouTube Video Lectures by FreeCodeCamp.org](https://www.youtube.com/watch?v=0oyCUWLL_fU)
+  + https://course.fast.ai/
+  + [YouTube Video Lectures by FreeCodeCamp.org](https://www.youtube.com/watch?v=0oyCUWLL_fU)
 * [DL] [UC Berkeley CS182 Spring 2021: Deep Learning on YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
-  - [Course Mateirials: https://cs182sp21.github.io/](https://cs182sp21.github.io/)
+  + [Course Mateirials: https://cs182sp21.github.io/](https://cs182sp21.github.io/)
 * [DL] NYU DS-GA 1008 Deep Learning (Spring 2020)
   + https://atcold.github.io/pytorch-Deep-Learning/
   + [(YouTube) Deep Learning with Pytorch](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
@@ -50,14 +50,17 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + Maria-Florina Balcan's university page (http://www.cs.cmu.edu/~ninamf/)
 * [NLP.DL] [CMU Neural Nets for NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
 * [ML.GNN] Stanford CS224W: Machine Learning with Graphs
-  - Winter 2021 by Jure Leskovec (http://web.stanford.edu/class/cs224w/)
-  - [Autumn 2019 on YouTube by Jure Leskovec](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
+  + Winter 2021 by Jure Leskovec (http://web.stanford.edu/class/cs224w/)
+  + [Autumn 2019 on YouTube by Jure Leskovec](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
 * [ML] Harvard CS181: Machine Learning (https://harvard-ml-courses.github.io/cs181-web/)
-* [Web] Harvard CS50x: Intro CS & Web (https://cs50.harvard.edu/x/2021/)
-* [Web] Harvard CS50: Web Programming with Python and JavaScript (https://cs50.harvard.edu/web/2020/)
-* [Web] Harvard CS75: Building Dynamic Website by David J Malan
-  - http://cs75.tv/2012/summer/
-  - [YouTube](https://www.youtube.com/playlist?list=PLSlcu3sMjsc9QoiHpdEWF246A4eVCjBUQ)
+* [Web] Web development skills may add another dimesion for building products
+  + [Web] Harvard CS50x: Intro CS & Web (https://cs50.harvard.edu/x/2021/)
+  + [Web] Harvard CS50: Web Programming with Python and JavaScript (https://cs50.harvard.edu/web/2020/)
+  + [Web] Harvard CS75: Building Dynamic Website by David J Malan
+    - http://cs75.tv/2012/summer/
+    - [YouTube](https://www.youtube.com/playlist?list=PLSlcu3sMjsc9QoiHpdEWF246A4eVCjBUQ)
+  + [Web] https://javascript.info/
+  + [Web] MDN https://developer.mozilla.org/en-US/docs/Learn 
 
 
 ## Resource Compilations
