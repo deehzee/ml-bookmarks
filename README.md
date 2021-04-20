@@ -50,8 +50,8 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + https://github.com/jeffheaton/t81_558_deep_learning
 * [DL] [Deep Learning Crash Course 2021 by Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)
 * [NLP.DL] [Stanford CS224N: Natural Language Processing with Deep Learning (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-* [NLP.DL] [CMU Neural Nets for NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
-* [NLP.DL] [UMass CS685: Advanced NLP, Fall 2020](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
+* [NLP.DL] [(YouTube) CMU Neural Nets for NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
+* [NLP.DL] [(YouTube) UMass CS685: Advanced NLP, Fall 2020](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
 * [ML.GNN] Stanford CS224W: Machine Learning with Graphs
   + Winter 2021 by Jure Leskovec (http://web.stanford.edu/class/cs224w/)
   + [Autumn 2019 on YouTube by Jure Leskovec](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
