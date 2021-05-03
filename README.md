@@ -48,6 +48,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + [(YouTube) Deep Learning with Pytorch, Spring 2020](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
   + [(YouTube) NYU Deep Learning, Spring 2021](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
 * [DL] T81 558: Applications of Deep Neural Networks by Jeff Heaton, Washington University at St Louis
+  + https://sites.wustl.edu/jeffheaton/t81-558/
   + [Applications of Deep Learning Networks for Tensorflow and Keras (2021) [YouTube]](https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN)
   + https://github.com/jeffheaton/t81_558_deep_learning
 * [DL] [Deep Learning Crash Course 2021 by Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)
