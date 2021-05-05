@@ -61,6 +61,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + [Autumn 2019 on YouTube by Jure Leskovec](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
 * [Web] Web development skills may add another dimesion for building products
   + [Web] Harvard CS50x: Intro CS & Web (https://cs50.harvard.edu/x/2021/)
+  + [Web] Harvard CS50: Intro CS & Web (https://cs50.harvard.edu/college/2021/spring/)
   + [Web] Harvard CS50: Web Programming with Python and JavaScript (https://cs50.harvard.edu/web/2020/)
   + [Web] Harvard CS75: Building Dynamic Website by David J Malan
     - http://cs75.tv/2012/summer/
