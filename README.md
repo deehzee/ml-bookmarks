@@ -157,6 +157,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   - [ML] RecSys 2020 - Takeaways and Notable Papers (https://eugeneyan.com/writing/recsys2020/)
   - [Ld] On Leadership (https://eugeneyan.com/tag/leadership/)
 * [ML.GNN] [Theoretical Foundations of Graph Neural Networks by Petar Veličković on YouTube](https://www.youtube.com/watch?v=uF53xsT7mjc)
+* [GML] GML in-depth: three forms of self-supervised learning (https://graphml.substack.com/p/self-supervised-learning)
 
 
 ## Getting Started
