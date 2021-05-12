@@ -56,9 +56,9 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [NLP.DL] [(YouTube) Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 * [NLP.DL] [(YouTube) CMU Neural Nets for NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
 * [NLP.DL] [(YouTube) UMass CS685: Advanced NLP, Fall 2020](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
-* [ML.GNN] Stanford CS224W: Machine Learning with Graphs
-  + Winter 2021 by Jure Leskovec (http://web.stanford.edu/class/cs224w/)
+* [ML.GNN] Stanford CS224W: Machine Learning with Graphs (https://cs224w.stanford.edu)
   + [Stanford CS224W: Machine Learning with Graphs (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+  + Winter 2021 by Jure Leskovec (http://web.stanford.edu/class/cs224w/)
   + [Autumn 2019 on YouTube by Jure Leskovec](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
 * [Web] Web development skills may add another dimesion for building products
   + [Web] Harvard CS50x: Intro CS & Web (https://cs50.harvard.edu/x/2021/)
