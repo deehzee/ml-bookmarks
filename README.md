@@ -106,7 +106,8 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [ML] Interpretable Machine Learning (https://christophm.github.io/interpretable-ml-book/)
 * [DL.GNN] Graph Representation Learning Book by Hamilton (https://www.cs.mcgill.ca/~wlh/grl_book/)
 * [Graph/Network] Network Science Book by Barabási (http://networksciencebook.com/)
-* [Graph/Network/GameTh] Networks, Crowds, and Markets by Easley and Kleinberg (http://www.cs.cornell.edu/home/kleinber/networks-book/)
+* [Grap/Network/GameTh] Networks, Crowds, and Markets by Easley and Kleinberg (http://www.cs.cornell.edu/home/kleinber/networks-book/)
+* [GeomDL/Graph] Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges (https://arxiv.org/abs/2104.13478)
 
 
 ## Articles / Blogs / Talks
