@@ -43,10 +43,11 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + [YouTube Video Lectures by FreeCodeCamp.org](https://www.youtube.com/watch?v=0oyCUWLL_fU)
 * [DL] [UC Berkeley CS182 Spring 2021: Deep Learning on YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
   + [Course Mateirials: https://cs182sp21.github.io/](https://cs182sp21.github.io/)
-* [DL] NYU DS-GA 1008 Deep Learning (Spring 2020)
-  + https://atcold.github.io/pytorch-Deep-Learning/
-  + [(YouTube) Deep Learning with Pytorch, Spring 2020](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+* [DL] NYU DS-GA 1008 Deep Learning by LeCun and Canziani
   + [(YouTube) NYU Deep Learning, Spring 2021](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
+  + https://github.com/Atcold/NYU-DLSP21 Spring 2021
+  + https://atcold.github.io/pytorch-Deep-Learning/ Soring 2020
+  + [(YouTube) Deep Learning with Pytorch, Spring 2020](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 * [DL] T81 558: Applications of Deep Neural Networks by Jeff Heaton, Washington University at St Louis
   + https://sites.wustl.edu/jeffheaton/t81-558/
   + [Applications of Deep Learning Networks for Tensorflow and Keras (2021) [YouTube]](https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN)
