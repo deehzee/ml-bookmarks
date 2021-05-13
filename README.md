@@ -34,8 +34,9 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [MLD] Stanford CS329S: Machine Learning System Design, Spring 2021
   + https://stanford-cs329s.github.io/syllabus.html
 * [MLD] Full Stack Deep Learning
-  + Fall 2019 (https://fall2019.fullstackdeeplearning.com/)
   + Spring 2021 (https://fullstackdeeplearning.com/spring2021/)
+  + [(2021-Spring) Fullstack Deep Learning (YouTube)](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
+  + Fall 2019 (https://fall2019.fullstackdeeplearning.com/)
 * [DL] MIT 6.S191 Introduction to Deep Learning (Spring 2021)
   + http://introtodeeplearning.com/
 * [DL] Deep Learning by Fast.ai
