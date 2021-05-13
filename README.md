@@ -67,8 +67,9 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + [Web] Harvard CS75: Building Dynamic Website by David J Malan
     - http://cs75.tv/2012/summer/
     - [YouTube](https://www.youtube.com/playlist?list=PLSlcu3sMjsc9QoiHpdEWF246A4eVCjBUQ)
+  + [Web] Deep Dive into Modern Web Development (https://fullstackopen.com/en/)
   + [Web] https://javascript.info/
-  + [Web] MDN https://developer.mozilla.org/en-US/docs/Learn 
+  + [Web] (MDN) Mozilla Developer Network (https://developer.mozilla.org/en-US/docs/Learn)
 
 
 ## Resource Compilations
