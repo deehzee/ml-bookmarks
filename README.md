@@ -19,6 +19,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + [(YouTube) Mining Massive Datasets Stanford University [Full Course]](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
   + [(YouTube) CS246, Mining Massive Data Sets](https://www.youtube.com/playlist?list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR)
 * [ML] [Cornell CS5787: Applied Machine Learning, Fall 2020 (YouTube)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+  + https://github.com/kuleshov/cornell-cs5785-applied-ml
 * [ML] Machine Learning by Google Developer
   + https://developers.google.com/machine-learning/crash-course
 * [ML] Tom Michell's courses
