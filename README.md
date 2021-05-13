@@ -65,6 +65,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + [Stanford CS224W: Machine Learning with Graphs by Jure Leskovec 2021-Spring (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
   + Winter 2021 by Jure Leskovec (http://web.stanford.edu/class/cs224w/)
   + [Autumn 2019 on YouTube by Jure Leskovec](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
+* [RL.DL] [(2020-Fall) UC Berkeley CS285: Deep Reinforcement Learning (YouTube)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 * [Web] Web development skills may add another dimesion for building products
   + [Web] Harvard CS50x: Intro CS & Web (https://cs50.harvard.edu/x/2021/)
   + [Web] Harvard CS50: Intro CS & Web (https://cs50.harvard.edu/college/2021/spring/)
@@ -189,4 +190,5 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [DS] Data Science @OSSU (https://github.com/ossu/data-science)
 * [CS] Computer Science @OSSU (https://github.com/ossu/computer-science)
 * [Prob.Stat] Seeing Theory: A Visual Introduction to Probability and Statistics (https://seeing-theory.brown.edu/)
+* [ML] [(2018-Fall) Staford CS229: Machine Learning by Andrew Ng (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
