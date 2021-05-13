@@ -56,6 +56,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + https://github.com/jeffheaton/t81_558_deep_learning
 * [DL] [Deep Learning Crash Course 2021 by Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)
 * [DL] Deep Learning Course by Fleuret at UNIGE/EPFL with Pytorch (https://fleuret.org/dlc/)
+* [CV.DL] [(2020-Fall) UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision (YouTube)](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 * [NLP.DL] [(YouTube) Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 * [NLP.DL] [(YouTube) CMU CS11-747: Neural Nets for NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
 * [NLP.DL] [(2020-Fall) CMU CS11-737: Multilingual NLP (YouTube)](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
