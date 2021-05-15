@@ -1,6 +1,6 @@
 # Some newer additions
 
-* [Graph.ML.DL] [(2021-Spring) Stanford CS224W: Machine Learning with Graphs by Jure Leskovec (YouTube)](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+* [Graph.ML.DL] [(2021-Spring) Stanford CS224W: Machine Learning with Graphs by Jure Leskovec (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 * [DL] [(2021-Spring) NYU DLSP21: Deep Learning by LeCun and Canziani (YouTube)](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
 * [DL] [(2021-Spring) Fullstack Deep Learning (YouTube)](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
 * [DL] [(2021-Spring) WUSTL T81-558: Applications of Deep Learning Networks in Keras/Tensorflow by Jeff Heaton (YouTube)](https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN)
