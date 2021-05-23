@@ -103,6 +103,8 @@ Try to get internships.
 * [DS] Data Science @OSSU (https://github.com/ossu/data-science)
 * [CS] Computer Science @OSSU (https://github.com/ossu/computer-science)
 * [Prob.Stat] Seeing Theory: A Visual Introduction to Probability and Statistics (https://seeing-theory.brown.edu/)
+* [ML] [(2018-Fall) Staford CS229: Machine Learning by Andrew Ng (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+* [Git] Git from the Bottom up (https://jwiegley.github.io/git-from-the-bottom-up/)
 
 
 **TIP**: If blog posts on medium.com or towardsdatascience.com asks you for subscription, try to read them on incognito mode.
