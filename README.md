@@ -199,4 +199,5 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [CS] Computer Science @OSSU (https://github.com/ossu/computer-science)
 * [Prob.Stat] Seeing Theory: A Visual Introduction to Probability and Statistics (https://seeing-theory.brown.edu/)
 * [ML] [(2018-Fall) Staford CS229: Machine Learning by Andrew Ng (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+* [Git] Git from the Bottom up (https://jwiegley.github.io/git-from-the-bottom-up/)
 
