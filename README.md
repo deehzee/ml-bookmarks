@@ -57,9 +57,10 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [DL] [Deep Learning Crash Course 2021 by Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)
 * [DL] Deep Learning Course by Fleuret at UNIGE/EPFL with Pytorch (https://fleuret.org/dlc/)
 * [DL] UVA Deep Learning Course (https://uvadlc.github.io/)
+  + [YouTube Playlist - UVA Deep Learning Lectures 2020](https://www.youtube.com/playlist?list=PLdlPlO1QhMiDlES3Vck6oQwO3TMYbdZDk)
+  + [YouTube Playlist - Tutorial Notebooks](https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA)
   + GitHub Repo for Jupyter Notebooks (https://github.com/phlippe/uvadlc_notebooks) includes GNN
   + Website for Jupyter Notebooks (https://uvadlc-notebooks.readthedocs.io/en/latest/) includes GNN
-  + [YouTube Playlist - Tutorial Notebooks](https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA)
 * [DL.UL] [CS294-158-SP20: Deep Unsupervised Learning (Spring 2020)](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
   + [YouTube Playlist - Lectures](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
   + [HWs and Notebooks](https://github.com/rll/deepul)
