@@ -1,5 +1,8 @@
-Group|Code|Course|Web|
-----------------------
+# Stanford CS Curriculum
+
+
+Group|Code|Course|Web
+-----|----|------|---
 intro|cs1U|Practical Unix|https://practicalunix.org|
 programming|cs41|The Python Programming Language|https://stanfordpython.com/#/|
 mobile|cs47|Cross-Platform Mobile Development|https://web.stanford.edu/class/cs47/#schedule|
