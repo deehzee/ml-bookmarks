@@ -1,5 +1,6 @@
 # Stanford CS Curriculum
 
+Source: https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/edit#gid=0
 
 Group|Code|Course|Web
 -----|----|------|---
