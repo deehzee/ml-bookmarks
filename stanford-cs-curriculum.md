@@ -37,13 +37,13 @@ security|cs155|Computer and Network Security|https://cs155.stanford.edu|
 theory|cs157|Computational Logic|http://intrologic.stanford.edu/stanford/index.php|
 algorithms|cs161|Desgin and Analysis of Algorithms|https://stanford-cs161.github.io/winter2021/|
 algorithms|cs166|Data Structures|http://web.stanford.edu/class/cs166/|
-ethics|cs182|"Ethics| Public Policy| and Technological Change"|https://web.stanford.edu/class/cs182/|
+ethics|cs182|"Ethics, Public Policy, and Technological Change"|https://web.stanford.edu/class/cs182/|
 application|cs193U|Video Game Development in C++ and Unreal Engine|https://www.tomlooman.com/stanford-cs193u|
 application|cs193P|iOS Application Development|https://cs193p.sites.stanford.edu|
 application|cs194A|Android Programming Workshop|https://web.stanford.edu/class/cs194a/|
 law|cs202|Law for Computer Science Professionals|http://web.stanford.edu/class/cs202/| 
 law|cs204|Computational Law|http://complaw.stanford.edu/complaw/public/lessons.php| 
-law|cs209|"Law| Bias & Algorithms"|https://5harad.com/mse330/|
+law|cs209|"Law, Bias & Algorithms"|https://5harad.com/mse330/|
 algorithms|cs205L|Continuous Mathematical Methods with an Emphases on ML|http://web.stanford.edu/class/cs205l/|
 AI|cs221|Artificial Intelligence: Principles & Techniques|https://stanford-cs221.github.io/spring2021/|
 robotics|cs223A|Introduction to Robotics|https://cs.stanford.edu/groups/manips/teaching/cs223a/| 
@@ -91,4 +91,4 @@ security|cs355|Topics in Cryptography|http://cs348k.stanford.edu/spring21|
 security|cs356|Topics in Computer and Network Security|https://cs356.stanford.edu|
 graphics|cs448B|Visualization|https://magrawala.github.io/cs448b-fa20/|
 graphics|cs468|Non-Euclidean Methods in Machine Learning|http://graphics.stanford.edu/courses/cs468-20-fall/|
-music|cs476a|"Music| Computing| and Design: The Art of Design"|https://ccrma.stanford.edu/courses/256a/|
+music|cs476a|"Music, Computing, and Design: The Art of Design"|https://ccrma.stanford.edu/courses/256a/|
