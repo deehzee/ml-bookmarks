@@ -61,7 +61,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + [YouTube Playlist - Tutorial Notebooks](https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA)
   + GitHub Repo for Jupyter Notebooks (https://github.com/phlippe/uvadlc_notebooks) includes GNN
   + Website for Jupyter Notebooks (https://uvadlc-notebooks.readthedocs.io/en/latest/) includes GNN
-* [DL.UL] [CS294-158-SP20: Deep Unsupervised Learning (Spring 2020)](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
+* [DL.UL] [Berkeley CS294-158-SP20: Deep Unsupervised Learning (Spring 2020)](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
   + [YouTube Playlist - Lectures](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
   + [HWs and Notebooks](https://github.com/rll/deepul)
 * [CV.DL] [(2020-Fall) UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision (YouTube)](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
