@@ -73,6 +73,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + [Stanford CS224W: Machine Learning with Graphs by Jure Leskovec 2021-Spring (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
   + Winter 2021 by Jure Leskovec (http://web.stanford.edu/class/cs224w/)
   + [Autumn 2019 on YouTube by Jure Leskovec](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
+* [DL.GDL/GNN] AMMI 2021 GDL100 Geometric Deep Learning Course (https://geometricdeeplearning.com/lectures/)
 * [RL.DL] [(2020-Fall) UC Berkeley CS285: Deep Reinforcement Learning (YouTube)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 * [Web] Web development skills may add another dimesion for building products
   + [Web] Harvard CS50x: Intro CS & Web (https://cs50.harvard.edu/x/2021/)
@@ -177,7 +178,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   - [Ld] On Leadership (https://eugeneyan.com/tag/leadership/)
 * [ML.GraphNN] [Theoretical Foundations of Graph Neural Networks by Petar Veličković on YouTube](https://www.youtube.com/watch?v=uF53xsT7mjc)
 * [GraphML] GML in-depth: three forms of self-supervised learning (https://graphml.substack.com/p/self-supervised-learning)
-* [GeoDL,GraphDL] Geometric Deep Learning (https://geometricdeeplearning.com/)
+* [GeoDL,GraphDL] Geometric Deep Learning - paper, blog, keynotes, lectures (https://geometricdeeplearning.com/)
  * [GraphDL] [Introducton to Graph Deep Learning and Where It May Be Heading](https://medium.com/syncedreview/introduction-to-deep-learning-for-graphs-and-where-it-may-be-heading-75d48f42a322)
  * [GraphML] [How to Get Started with Graph Machine Learning](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a)
 
