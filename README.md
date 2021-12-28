@@ -91,6 +91,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 
 * [DS] [52 Week Curriculum for Data Science in 2021 by Terrence Shin](https://towardsdatascience.com/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160)
 * [Stat] StatQuest (https://statquest.org/video-index/)
+* [ML/DL/NLP/GNN/GDL/RL] YouTube ML Courses (https://github.com/dair-ai/ML-YouTube-Courses)
 * [ML] Awesome ML Courses (https://github.com/luspr/awesome-ml-courses)
 * [MLD] Machine Learning Systems Design (https://github.com/chiphuyen/machine-learning-systems-design)
 * [MLD] Applied ML (https://github.com/eugeneyan/applied-ml)
