@@ -12,6 +12,7 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + [(YouTube) Stanford CS229 | Machine Learning | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [ML] Learning from Data by Abu Mostafa, Caltech
   + https://work.caltech.edu/telecourse
+* [ML] [Foundations of Data Science, Microsoft Research (YouTube)](https://www.youtube.com/playlist?list=PLD7HFcN7LXRcvobbHq_8zMyWq_tKwtebc)
 * [ML] Mining Massive Datasets
   + http://mmds.org/
   + http://web.stanford.edu/class/cs246/index.html
