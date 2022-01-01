@@ -110,8 +110,6 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 
 ## Books
 
-* [ML.MLE.MLD] Machine Learning Yearnings by Andrew Ng (Downloadable from https://www.deeplearning.ai/programs/)
-* [ML] Approacing Almost Any Machine Learning Problem by Abhishek Thakur (https://github.com/abhishekkrthakur/approachingalmost)
 * [ML.MLE.MLD] Machine Learning Engineering by Andriy Burkov (http://www.mlebook.com/wiki/doku.php)
 * [DL] Deep Learning Book by Goodfellow, Bengio and Courville (https://www.deeplearningbook.org/)
 * [DL] Dive into Deep Learning by Zhang, Lipton, Li and Smola (https://d2l.ai/)
@@ -128,6 +126,8 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [Graph.Kernel] Graph Kernels: State-of-the-Art and Future Challenges (https://arxiv.org/abs/2011.03854)
 * [GeomDL/Graph] Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges (https://arxiv.org/abs/2104.13478)
 * [DL.GNN] Graph Representation Learning Book by Hamilton (https://www.cs.mcgill.ca/~wlh/grl_book/)
+* [ML.MLE.MLD] Machine Learning Yearnings by Andrew Ng (Downloadable from https://www.deeplearning.ai/programs/)
+* [ML] Approacing Almost Any Machine Learning Problem by Abhishek Thakur (https://github.com/abhishekkrthakur/approachingalmost)
 
 
 ## Articles / Blogs / Talks
