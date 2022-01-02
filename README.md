@@ -206,3 +206,50 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [ML] [(2018-Fall) Staford CS229: Machine Learning by Andrew Ng (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [Git] Git from the Bottom up (https://jwiegley.github.io/git-from-the-bottom-up/)
 
+
+## Good to Know CS
+
+* [CS.Prog] Stanford CS106B: Programming Abstractions in C++ 
+   ([Course](https://online.stanford.edu/courses/cs106b-programming-abstractions),
+    [SEE](https://see.stanford.edu/course/cs106b),
+    [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWiqgyzwAz_uGLSHsuYZlMX))
+<!--
+* [CS.Prog] Stanford CS106X: Programming Abstractoins in C++ (Accelerated)
+   ([Course](https://online.stanford.edu/courses/cs106x-programming-abstractions-accelerated),
+    [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdVmbGH6Jp-9twXPbi5J_IBT))
+* [CS.Sys] Stanford CS107: Computer Organization and Systems (C)
+   ([Course](https://online.stanford.edu/courses/cs107-computer-organization-and-systems)
+    [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN))
+* [CS.Sys] Stanford CS108: Object-Oriented Systems Design
+   ([Course](https://online.stanford.edu/courses/cs108-object-oriented-systems-design), NoYouTube)
+* [CS.Sys] Stanford CS110: Principles of Computer Systems
+   ([Course](https://online.stanford.edu/courses/cs110-principles-computer-systems),
+    [YouTube](https://www.youtube.com/playlist?list=PLai-xIlqf4JmTNR9aPCwIAOySs1GOm8sQ))
+* [CS.Network] Stanford CS144: Introduction to Computer Networking
+   ([Course](https://online.stanford.edu/courses/cs144-introduction-computer-networking),
+    [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS))
+* [CS.Sys] Stanford CS212: Operating Systems and Systems Programming
+   ([Course](https://online.stanford.edu/courses/cs212-operating-systems-and-systems-programming), NoYouTube)
+* [CS.Web] Stanford CS142: Web Applications
+   ([Course](https://online.stanford.edu/courses/cs142-web-applications), NoYouTube)
+* [CS.Web] Harvard CS50
+* [CS.Web] Harvard CS75
+* [CS.DB] Stanford CS145: Data Management and Data Systems
+   ([Course](https://online.stanford.edu/courses/cs145-data-management-and-data-systems),
+    [YouTube](https://www.youtube.com/playlist?list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0),
+    [YouTube](https://www.youtube.com/playlist?list=PL9ysvtVnryGpnIj9rcIqNDxakUn6v72Hm))
+* [CS.DB] CMU 15-445/645: Database Systems
+  - Fall 2019 ([Course](https://15445.courses.cs.cmu.edu/fall2019/), [YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi))
+  - Fall 2021 ([Course](https://15445.courses.cs.cmu.edu/fall2021/), [YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG))
+* [CS.DB] CMU 15-721: Advanced Database Systems (Spring 2020)
+   ([Course](https://15721.courses.cs.cmu.edu/spring2020/), [YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O))
+* [CS.Sys/Data] Stanford CS245: Principles of Data-Intensive Systems
+   ([Course](https://online.stanford.edu/courses/cs245-principles-data-intensive-systems), NoYouTube)
+* [CS.Sys/Data] Stanford CS246: Mining Massive Datasets
+   ([Course](https://online.stanford.edu/courses/cs246-mining-massive-data-sets),
+    [Web](http://mmds.org/),
+    [YouTube](https://www.youtube.com/watch?v=xoA5v9AO7S0&list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV),
+    [YouTube](https://www.youtube.com/watch?v=jofiaetm5bY&list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR))
+-->
+
+
