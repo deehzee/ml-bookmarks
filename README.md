@@ -4,6 +4,17 @@ Bookmarks for free (some are on medium - nonfree) machine learning resources on 
 This is not exhaustive by any means. This is mainly for what I am currently reading/following
 (or planning to do in near future).
 
+<!--
+## Table of Contents
+
+* [Courses](#courses)
+* [Resource Compilations](#resource-compilations)
+* [Books](#books)
+* [Articles / Blogs / Talks](#articles--blogs--talks)
+* [Getting Started](#getting-started)
+* [Good to Know CS](#good-to-know-cs)
+-->
+
 
 ## Courses
 
@@ -87,6 +98,8 @@ This is not exhaustive by any means. This is mainly for what I am currently read
   + [Web] https://javascript.info/
   + [Web] (MDN) Mozilla Developer Network (https://developer.mozilla.org/en-US/docs/Learn)
 
+<!--[[top](#ml-bookmarks)]-->
+
 
 ## Resource Compilations
 
@@ -106,6 +119,8 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [ML.DL.Code] Keras Code Examples (https://keras.io/examples/)
 * [GraphNN] Must-Read Papers on Graph Neural Networks (https://github.com/thunlp/GNNPapers)
 * [DL.Prod] Deep Learning in Production (https://github.com/The-AI-Summer/Deep-Learning-In-Production)
+
+<!--[[top](#ml-bookmarks)]-->
 
 
 ## Books
@@ -144,6 +159,8 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [ML.MLE.MLD] Machine Learning Engineering by Andriy Burkov (http://www.mlebook.com/wiki/doku.php)
 * [ML.MLE.MLD] Machine Learning Yearnings by Andrew Ng (Downloadable from https://www.deeplearning.ai/programs/)
 * [ML] Approacing Almost Any Machine Learning Problem by Abhishek Thakur (https://github.com/abhishekkrthakur/approachingalmost)
+
+<!--[[top](#ml-bookmarks)]-->
 
 
 ## Articles / Blogs / Talks
@@ -200,6 +217,8 @@ This is not exhaustive by any means. This is mainly for what I am currently read
  * [GraphDL] [Introducton to Graph Deep Learning and Where It May Be Heading](https://medium.com/syncedreview/introduction-to-deep-learning-for-graphs-and-where-it-may-be-heading-75d48f42a322)
  * [GraphML] [How to Get Started with Graph Machine Learning](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a)
 
+<!--[[top](#ml-bookmarks)]-->
+
 
 ## Getting Started
 
@@ -221,6 +240,8 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 * [Prob.Stat] Seeing Theory: A Visual Introduction to Probability and Statistics (https://seeing-theory.brown.edu/)
 * [ML] [(2018-Fall) Staford CS229: Machine Learning by Andrew Ng (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [Git] Git from the Bottom up (https://jwiegley.github.io/git-from-the-bottom-up/)
+
+<!--[[top](#ml-bookmarks)]-->
 
 
 ## Good to Know CS
@@ -268,4 +289,5 @@ This is not exhaustive by any means. This is mainly for what I am currently read
     [YouTube](https://www.youtube.com/watch?v=jofiaetm5bY&list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR))
 -->
 
+<!--[[top](#ml-bookmarks)]-->
 
