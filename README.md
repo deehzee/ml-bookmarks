@@ -110,22 +110,38 @@ This is not exhaustive by any means. This is mainly for what I am currently read
 
 ## Books
 
-* [ML.MLE.MLD] Machine Learning Engineering by Andriy Burkov (http://www.mlebook.com/wiki/doku.php)
-* [DL] Deep Learning Book by Goodfellow, Bengio and Courville (https://www.deeplearningbook.org/)
-* [DL] Dive into Deep Learning by Zhang, Lipton, Li and Smola (https://d2l.ai/)
-* [ML] Probabilistic Machine Learning by Kevin Murphy (https://probml.github.io/pml-book/)
-* [ML] Elements of Statistical Learning (ESL) by Hastie, Tibshirani and Friedman (https://web.stanford.edu/~hastie/ElemStatLearn/)
-* [ML] Introduction to Statistical Learning (ISLR) by James, Witten, Hastie and Tibshirani (https://www.statlearning.com/)
+<!-- TODO: Re-org the list -->
+* [DS.ML] Python Data Science Handbook (https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [ML] Interpretable Machine Learning (https://christophm.github.io/interpretable-ml-book/)
 * [ML] Probabilistic Programming and Bayesian Methods for Hackers by Davidson-Pilon (with PyMC3 and TFP)
   + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
   + https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
-* [DS.ML] Python Data Science Handbook (https://jakevdp.github.io/PythonDataScienceHandbook/)
-* [ML] Interpretable Machine Learning (https://christophm.github.io/interpretable-ml-book/)
+<!-- New Additons:
+* [ML] Bayesian Reasoning and Machine Learning by David Barber
+   ([BRML](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage))
+* [ML] Pattern Recognition and Machine Learning by Christopher Bishop
+   ([PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/))
+-->
+* [ML] Probabilistic Machine Learning by Kevin Murphy
+   ([PML](https://probml.github.io/pml-book/))
+<!--
+* [ML] Elements of Statistical Learning by Hastie, Tibshirani and Friedman
+   ([ESL](https://web.stanford.edu/~hastie/ElemStatLearn/))
+* [ML] Introduction to Statistical Learning by James, Witten, Hastie and Tibshirani
+   ([ISLR](https://www.statlearning.com/))
+* [ML/BigData] Mining of Massive Datasets by Leskovec, Rajaraman, Ullman
+   ([MMDS](http://mmds.org/))
+* [ML] Foundations of Data Science by Blum, Hopcroft, Kannan
+   ([FDS:pdf](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf))
+-->
+* [DL] Deep Learning Book by Goodfellow, Bengio and Courville (https://www.deeplearningbook.org/)
+* [DL] Dive into Deep Learning by Zhang, Lipton, Li and Smola (https://d2l.ai/)
 * [Graph/Network] Network Science Book by Barabási (http://networksciencebook.com/)
 * [Grap/Network/GameTh] Networks, Crowds, and Markets by Easley and Kleinberg (http://www.cs.cornell.edu/home/kleinber/networks-book/)
 * [Graph.Kernel] Graph Kernels: State-of-the-Art and Future Challenges (https://arxiv.org/abs/2011.03854)
 * [GeomDL/Graph] Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges (https://arxiv.org/abs/2104.13478)
 * [DL.GNN] Graph Representation Learning Book by Hamilton (https://www.cs.mcgill.ca/~wlh/grl_book/)
+* [ML.MLE.MLD] Machine Learning Engineering by Andriy Burkov (http://www.mlebook.com/wiki/doku.php)
 * [ML.MLE.MLD] Machine Learning Yearnings by Andrew Ng (Downloadable from https://www.deeplearning.ai/programs/)
 * [ML] Approacing Almost Any Machine Learning Problem by Abhishek Thakur (https://github.com/abhishekkrthakur/approachingalmost)
 
