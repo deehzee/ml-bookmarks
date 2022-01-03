@@ -1,8 +1,7 @@
 # ML Bookmarks
 
-Bookmarks for free (some are on medium - nonfree) machine learning resources on the web.
-This is not exhaustive by any means. This is mainly for what I am currently reading/following
-(or planning to do in near future).
+My bookmarks (as well as, wishlist and advice) for free (for most parts -- some may be non-free)
+machine learning resources on the web -- personally biased.
 
 
 ## Table of Contents
