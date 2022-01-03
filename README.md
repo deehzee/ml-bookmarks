@@ -262,7 +262,8 @@ machine learning resources on the web -- personally biased.
   - Harvard CS50: Intro CS & Web (https://cs50.harvard.edu/college/2021/spring/)
   - Harvard CS50: Web Programming with Python and JavaScript
      (https://cs50.harvard.edu/web/2020/,
-      [YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8))
+      [YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8),
+      [YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu))
   - Harvard CS75: Building Dynamic Website by David J Malan
      ([CS75.TV](http://cs75.tv/2012/summer/),
       [YouTube](https://www.youtube.com/playlist?list=PLSlcu3sMjsc9QoiHpdEWF246A4eVCjBUQ))
