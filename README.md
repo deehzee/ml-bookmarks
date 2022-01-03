@@ -85,16 +85,6 @@ machine learning resources on the web -- personally biased.
   + [Autumn 2019 on YouTube by Jure Leskovec](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
 * [DL.GDL/GNN] AMMI 2021 GDL100 Geometric Deep Learning Course (https://geometricdeeplearning.com/lectures/)
 * [RL.DL] [(2020-Fall) UC Berkeley CS285: Deep Reinforcement Learning (YouTube)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
-* [Web] Web development skills may add another dimesion for building products
-  + [Web] Harvard CS50x: Intro CS & Web (https://cs50.harvard.edu/x/2021/)
-  + [Web] Harvard CS50: Intro CS & Web (https://cs50.harvard.edu/college/2021/spring/)
-  + [Web] Harvard CS50: Web Programming with Python and JavaScript (https://cs50.harvard.edu/web/2020/)
-  + [Web] Harvard CS75: Building Dynamic Website by David J Malan
-    - http://cs75.tv/2012/summer/
-    - [YouTube](https://www.youtube.com/playlist?list=PLSlcu3sMjsc9QoiHpdEWF246A4eVCjBUQ)
-  + [Web] Deep Dive into Modern Web Development (https://fullstackopen.com/en/)
-  + [Web] https://javascript.info/
-  + [Web] (MDN) Mozilla Developer Network (https://developer.mozilla.org/en-US/docs/Learn)
 
 [[back to top](#ml-bookmarks)]
 
@@ -267,8 +257,18 @@ machine learning resources on the web -- personally biased.
    ([Course](https://online.stanford.edu/courses/cs212-operating-systems-and-systems-programming), NoYouTube)
 * [CS.Web] Stanford CS142: Web Applications
    ([Course](https://online.stanford.edu/courses/cs142-web-applications), NoYouTube)
-* [CS.Web] Harvard CS50
-* [CS.Web] Harvard CS75
+* [CS.Web] Harvard CS50 and CS75
+  - Harvard CS50x: Intro CS & Web (https://cs50.harvard.edu/x/2021/)
+  - Harvard CS50: Intro CS & Web (https://cs50.harvard.edu/college/2021/spring/)
+  - Harvard CS50: Web Programming with Python and JavaScript
+     (https://cs50.harvard.edu/web/2020/,
+      [YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8))
+  - Harvard CS75: Building Dynamic Website by David J Malan
+     ([CS75.TV](http://cs75.tv/2012/summer/),
+      [YouTube](https://www.youtube.com/playlist?list=PLSlcu3sMjsc9QoiHpdEWF246A4eVCjBUQ))
+  - [Web] Deep Dive into Modern Web Development (https://fullstackopen.com/en/)
+  - [Web] https://javascript.info/
+  - [Web] (MDN) Mozilla Developer Network (https://developer.mozilla.org/en-US/docs/Learn)
 * [CS.DB] Stanford CS145: Data Management and Data Systems
    ([Course](https://online.stanford.edu/courses/cs145-data-management-and-data-systems),
     [YouTube](https://www.youtube.com/playlist?list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0),
