@@ -119,9 +119,9 @@ machine learning resources on the web -- personally biased.
 * [ML] Probabilistic Programming and Bayesian Methods for Hackers by Davidson-Pilon (with PyMC3 and TFP)
   + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
   + https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
-<!-- New Additons:
 * [ML] Bayesian Reasoning and Machine Learning by David Barber
    ([BRML](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage))
+<!-- New Additons:
 * [ML] Pattern Recognition and Machine Learning by Christopher Bishop
    ([PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/))
 -->
