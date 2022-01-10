@@ -3,8 +3,7 @@
 ## Discipline
 
 The hardest part of self-learning is discipline. Discipline in making a plan, sticking to it,
-and following it through without getting distracted by the next shiny thing. This is my plan.
-This is what I need to stick to and follow through. Regularity is the key.
+and following it through without getting distracted by the next shiny thing. Regularity is the key.
 
 <!--
 ## The Plan
