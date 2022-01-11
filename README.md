@@ -125,9 +125,9 @@ machine learning resources on the web -- personally biased.
    ([PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/))
 * [ML] Probabilistic Machine Learning by Kevin Murphy
    ([PML](https://probml.github.io/pml-book/))
-<!--
 * [ML] Elements of Statistical Learning by Hastie, Tibshirani and Friedman
    ([ESL](https://web.stanford.edu/~hastie/ElemStatLearn/))
+<!--
 * [ML] Introduction to Statistical Learning by James, Witten, Hastie and Tibshirani
    ([ISLR](https://www.statlearning.com/))
 * [ML/BigData] Mining of Massive Datasets by Leskovec, Rajaraman, Ullman
