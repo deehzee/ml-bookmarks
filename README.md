@@ -129,9 +129,9 @@ machine learning resources on the web -- personally biased.
    ([ESL](https://web.stanford.edu/~hastie/ElemStatLearn/))
 * [ML] Introduction to Statistical Learning by James, Witten, Hastie and Tibshirani
    ([ISLR](https://www.statlearning.com/))
-<!--
 * [ML/BigData] Mining of Massive Datasets by Leskovec, Rajaraman, Ullman
    ([MMDS](http://mmds.org/))
+<!--
 * [ML] Foundations of Data Science by Blum, Hopcroft, Kannan
    ([FDS:pdf](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf))
 -->
