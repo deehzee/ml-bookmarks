@@ -113,7 +113,6 @@ machine learning resources on the web -- personally biased.
 
 ## Books
 
-<!-- TODO: Re-org the list -->
 * [DS.ML] Python Data Science Handbook (https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [ML] Interpretable Machine Learning (https://christophm.github.io/interpretable-ml-book/)
 * [ML] Probabilistic Programming and Bayesian Methods for Hackers by Davidson-Pilon (with PyMC3 and TFP)
@@ -131,10 +130,8 @@ machine learning resources on the web -- personally biased.
    ([ISLR](https://www.statlearning.com/))
 * [ML/BigData] Mining of Massive Datasets by Leskovec, Rajaraman, Ullman
    ([MMDS](http://mmds.org/))
-<!--
 * [ML] Foundations of Data Science by Blum, Hopcroft, Kannan
    ([FDS:pdf](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf))
--->
 * [DL] Deep Learning Book by Goodfellow, Bengio and Courville (https://www.deeplearningbook.org/)
 * [DL] Dive into Deep Learning by Zhang, Lipton, Li and Smola (https://d2l.ai/)
 * [Graph/Network] Network Science Book by Barabási (http://networksciencebook.com/)
