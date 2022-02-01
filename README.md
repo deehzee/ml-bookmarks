@@ -233,10 +233,10 @@ machine learning resources on the web -- personally biased.
    ([Course](https://online.stanford.edu/courses/cs106b-programming-abstractions),
     [SEE](https://see.stanford.edu/course/cs106b),
     [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWiqgyzwAz_uGLSHsuYZlMX))
-<!--
 * [CS.Prog] Stanford CS106X: Programming Abstractoins in C++ (Accelerated)
    ([Course](https://online.stanford.edu/courses/cs106x-programming-abstractions-accelerated),
     [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdVmbGH6Jp-9twXPbi5J_IBT))
+<!--
 * [CS.Sys] Stanford CS107: Computer Organization and Systems (C)
    ([Course](https://online.stanford.edu/courses/cs107-computer-organization-and-systems)
     [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN))
