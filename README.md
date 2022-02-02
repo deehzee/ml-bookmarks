@@ -237,11 +237,11 @@ machine learning resources on the web -- personally biased.
    ([Course](https://online.stanford.edu/courses/cs106x-programming-abstractions-accelerated),
     [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdVmbGH6Jp-9twXPbi5J_IBT))
 * [CS.Sys] Stanford CS107: Computer Organization and Systems (C)
-   ([Course](https://online.stanford.edu/courses/cs107-computer-organization-and-systems)
+   ([Course](https://online.stanford.edu/courses/cs107-computer-organization-and-systems),
     [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN))
 <!--
 * [CS.Sys] Stanford CS108: Object-Oriented Systems Design
-   ([Course](https://online.stanford.edu/courses/cs108-object-oriented-systems-design), NoYouTube)
+   ([Course](https://online.stanford.edu/courses/cs108-object-oriented-systems-design))
 * [CS.Sys] Stanford CS110: Principles of Computer Systems
    ([Course](https://online.stanford.edu/courses/cs110-principles-computer-systems),
     [YouTube](https://www.youtube.com/playlist?list=PLai-xIlqf4JmTNR9aPCwIAOySs1GOm8sQ))
@@ -249,9 +249,9 @@ machine learning resources on the web -- personally biased.
    ([Course](https://online.stanford.edu/courses/cs144-introduction-computer-networking),
     [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS))
 * [CS.Sys] Stanford CS212: Operating Systems and Systems Programming
-   ([Course](https://online.stanford.edu/courses/cs212-operating-systems-and-systems-programming), NoYouTube)
+   ([Course](https://online.stanford.edu/courses/cs212-operating-systems-and-systems-programming))
 * [CS.Web] Stanford CS142: Web Applications
-   ([Course](https://online.stanford.edu/courses/cs142-web-applications), NoYouTube)
+   ([Course](https://online.stanford.edu/courses/cs142-web-applications))
 * [CS.Web] Harvard CS50 and CS75
   - Harvard CS50x: Intro CS & Web (https://cs50.harvard.edu/x/2021/)
   - Harvard CS50: Intro CS & Web (https://cs50.harvard.edu/college/2021/spring/)
