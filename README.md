@@ -241,10 +241,10 @@ machine learning resources on the web -- personally biased.
     [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN))
 * [CS.Sys] Stanford CS108: Object-Oriented Systems Design
    ([Course](https://online.stanford.edu/courses/cs108-object-oriented-systems-design))
-<!--
 * [CS.Sys] Stanford CS110: Principles of Computer Systems
    ([Course](https://online.stanford.edu/courses/cs110-principles-computer-systems),
     [YouTube](https://www.youtube.com/playlist?list=PLai-xIlqf4JmTNR9aPCwIAOySs1GOm8sQ))
+<!--
 * [CS.Network] Stanford CS144: Introduction to Computer Networking
    ([Course](https://online.stanford.edu/courses/cs144-introduction-computer-networking),
     [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS))
