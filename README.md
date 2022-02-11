@@ -247,9 +247,9 @@ machine learning resources on the web -- personally biased.
 * [CS.Network] Stanford CS144: Introduction to Computer Networking
    ([Course](https://online.stanford.edu/courses/cs144-introduction-computer-networking),
     [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS))
-<!--
 * [CS.Sys] Stanford CS212: Operating Systems and Systems Programming
    ([Course](https://online.stanford.edu/courses/cs212-operating-systems-and-systems-programming))
+<!--
 * [CS.Web] Stanford CS142: Web Applications
    ([Course](https://online.stanford.edu/courses/cs142-web-applications))
 * [CS.Web] Harvard CS50 and CS75
