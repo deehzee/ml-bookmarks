@@ -249,9 +249,9 @@ machine learning resources on the web -- personally biased.
     [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS))
 * [CS.Sys] Stanford CS212: Operating Systems and Systems Programming
    ([Course](https://online.stanford.edu/courses/cs212-operating-systems-and-systems-programming))
-<!--
 * [CS.Web] Stanford CS142: Web Applications
    ([Course](https://online.stanford.edu/courses/cs142-web-applications))
+<!--
 * [CS.Web] Harvard CS50 and CS75
   - Harvard CS50x: Intro CS & Web (https://cs50.harvard.edu/x/2021/)
   - Harvard CS50: Intro CS & Web (https://cs50.harvard.edu/college/2021/spring/)
