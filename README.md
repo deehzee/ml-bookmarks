@@ -251,7 +251,6 @@ machine learning resources on the web -- personally biased.
    ([Course](https://online.stanford.edu/courses/cs212-operating-systems-and-systems-programming))
 * [CS.Web] Stanford CS142: Web Applications
    ([Course](https://online.stanford.edu/courses/cs142-web-applications))
-<!--
 * [CS.Web] Harvard CS50 and CS75
   - Harvard CS50x: Intro CS & Web (https://cs50.harvard.edu/x/2021/)
   - Harvard CS50: Intro CS & Web (https://cs50.harvard.edu/college/2021/spring/)
@@ -265,6 +264,7 @@ machine learning resources on the web -- personally biased.
   - [Web] Deep Dive into Modern Web Development (https://fullstackopen.com/en/)
   - [Web] https://javascript.info/
   - [Web] (MDN) Mozilla Developer Network (https://developer.mozilla.org/en-US/docs/Learn)
+<!--
 * [CS.DB] Stanford CS145: Data Management and Data Systems
    ([Course](https://online.stanford.edu/courses/cs145-data-management-and-data-systems),
     [YouTube](https://www.youtube.com/playlist?list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0),
