@@ -264,11 +264,11 @@ machine learning resources on the web -- personally biased.
   - [Web] Deep Dive into Modern Web Development (https://fullstackopen.com/en/)
   - [Web] https://javascript.info/
   - [Web] (MDN) Mozilla Developer Network (https://developer.mozilla.org/en-US/docs/Learn)
-<!--
 * [CS.DB] Stanford CS145: Data Management and Data Systems
    ([Course](https://online.stanford.edu/courses/cs145-data-management-and-data-systems),
     [YouTube](https://www.youtube.com/playlist?list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0),
     [YouTube](https://www.youtube.com/playlist?list=PL9ysvtVnryGpnIj9rcIqNDxakUn6v72Hm))
+<!--
 * [CS.DB] CMU 15-445/645: Database Systems
   - Fall 2019 ([Course](https://15445.courses.cs.cmu.edu/fall2019/), [YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi))
   - Fall 2021 ([Course](https://15445.courses.cs.cmu.edu/fall2021/), [YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG))
