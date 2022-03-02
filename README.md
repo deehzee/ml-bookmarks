@@ -268,10 +268,10 @@ machine learning resources on the web -- personally biased.
    ([Course](https://online.stanford.edu/courses/cs145-data-management-and-data-systems),
     [YouTube](https://www.youtube.com/playlist?list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0),
     [YouTube](https://www.youtube.com/playlist?list=PL9ysvtVnryGpnIj9rcIqNDxakUn6v72Hm))
-<!--
 * [CS.DB] CMU 15-445/645: Database Systems
   - Fall 2019 ([Course](https://15445.courses.cs.cmu.edu/fall2019/), [YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi))
   - Fall 2021 ([Course](https://15445.courses.cs.cmu.edu/fall2021/), [YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG))
+<!--
 * [CS.DB] CMU 15-721: Advanced Database Systems (Spring 2020)
    ([Course](https://15721.courses.cs.cmu.edu/spring2020/), [YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O))
 * [CS.Sys/Data] Stanford CS245: Principles of Data-Intensive Systems
