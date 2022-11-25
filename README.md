@@ -6,15 +6,18 @@ machine learning resources on the web -- personally biased.
 
 ## Table of Contents
 
-* [Courses](#courses)
-* [Resource Compilations](#resource-compilations)
+* [Machine Learning / Deep Learning](#machine-learning--deep-learning)
+* [Computer Vision](#computer-vision)
+* [Natural Language Processing / Understanding](#natural-language-processing--understanding)
+* [Math / Stat / Foundations](#math--stat--foundations)
+* [Computer Science](#computer-science)
+* [System Design](#system-design)
+* [Useful Resources](#useful-resources)
 * [Books](#books)
 * [Articles / Blogs / Talks](#articles--blogs--talks)
-* [Getting Started](#getting-started)
-* [Good to Know CS](#good-to-know-cs)
 
 
-## Courses
+## Machine Learning / Deep Learning
 
 * [ML] Stanford CS229 Fall 2018 by Andrew Ng
   + http://cs229.stanford.edu/syllabus-autumn2018.html
@@ -42,8 +45,6 @@ machine learning resources on the web -- personally biased.
   + [Course contents from Universität Tübingen, Summer 2020](https://uni-tuebingen.de/en/180804)
 * [ML] Scalable Machine Learning by Alex Smola at Berkeley in 2012
   + http://alex.smola.org/teaching/berkeley2012/
-* [MLD] Stanford CS329S: Machine Learning System Design, Spring 2021
-  + https://stanford-cs329s.github.io/syllabus.html
 * [MLD] Full Stack Deep Learning
   + Spring 2021 (https://fullstackdeeplearning.com/spring2021/)
   + [(2021-Spring) Fullstack Deep Learning (YouTube)](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
@@ -74,11 +75,6 @@ machine learning resources on the web -- personally biased.
 * [DL.UL] [Berkeley CS294-158-SP20: Deep Unsupervised Learning (Spring 2020)](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
   + [YouTube Playlist - Lectures](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
   + [HWs and Notebooks](https://github.com/rll/deepul)
-* [CV.DL] [(2020-Fall) UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision (YouTube)](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
-* [NLP.DL] [(YouTube) Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-* [NLP.DL] [(YouTube) CMU CS11-747: Neural Nets for NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
-* [NLP.DL] [(2020-Fall) CMU CS11-737: Multilingual NLP (YouTube)](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
-* [NLP.DL] [(YouTube) UMass CS685: Advanced NLP, Fall 2020](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
 * [ML.GNN] Stanford CS224W: Machine Learning with Graphs (https://cs224w.stanford.edu)
   + [Stanford CS224W: Machine Learning with Graphs by Jure Leskovec 2021-Spring (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
   + Winter 2021 by Jure Leskovec (http://web.stanford.edu/class/cs224w/)
@@ -89,7 +85,124 @@ machine learning resources on the web -- personally biased.
 [[back to top](#ml-bookmarks)]
 
 
-## Resource Compilations
+## Computer Vision
+
+* [CV.DL] [(2020-Fall) UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision (YouTube)](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+* [ML.GNN] Stanford CS224W: Machine Learning with Graphs (https://cs224w.stanford.edu)
+  + [Stanford CS224W: Machine Learning with Graphs by Jure Leskovec 2021-Spring (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+  + Winter 2021 by Jure Leskovec (http://web.stanford.edu/class/cs224w/)
+  + [Autumn 2019 on YouTube by Jure Leskovec](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
+* [DL.GDL/GNN] AMMI 2021 GDL100 Geometric Deep Learning Course (https://geometricdeeplearning.com/lectures/)
+* [RL.DL] [(2020-Fall) UC Berkeley CS285: Deep Reinforcement Learning (YouTube)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
+
+[[back to top](#ml-bookmarks)]
+
+
+## Natural Language Processing / Understanding
+
+* [NLP.DL] [(YouTube) Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+* [NLP.DL] [(YouTube) CMU CS11-747: Neural Nets for NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
+* [NLP.DL] [(2020-Fall) CMU CS11-737: Multilingual NLP (YouTube)](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
+* [NLP.DL] [(YouTube) UMass CS685: Advanced NLP, Fall 2020](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
+
+[[back to top](#ml-bookmarks)]
+
+
+## Math / Stat / Foundations
+
+* [Advice] Data Science Career Advice of College Students (https://www.springboard.com/blog/data-scientist-training-college/)
+* [DS.ML] [52 Week Curriculum for Data Science in 2021 by Terrence Shin](https://towardsdatascience.com/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160)
+* [Stat] StatQuest (https://statquest.org/video-index/)
+* [Math] Mathematics for Machine Learning (https://mml-book.github.io/)
+* [Math.DS.ML] [Great contents from 3Blue1Brown on YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+* [LinAlg] Linear Algebra Video Lectures by Strang at MIT in 2010 (https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+* [LinAlg] Computational Linear Algebra for Coders (https://github.com/fastai/numerical-linear-algebra) ([YouTube](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY))
+* [DS.ML] Python Data Science Handbook (https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [PhD] Do I Need to Go to University? (http://colah.github.io/posts/2020-05-University/)
+* [PhD] A Survival Guide to a PhD (http://karpathy.github.io/2016/09/07/phd/)
+* [ML] Probabilistic Programming and Bayesian Methods for Hackers by Davidson-Pilon (with PyMC3 and TFP)
+  + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+  + https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+* [ML] Introduction to Statistical Learning (ISLR) by James, Witten, Hastie and Tibshirani (https://www.statlearning.com/)
+* [DS] Data Science @OSSU (https://github.com/ossu/data-science)
+* [CS] Computer Science @OSSU (https://github.com/ossu/computer-science)
+* [Prob.Stat] Seeing Theory: A Visual Introduction to Probability and Statistics (https://seeing-theory.brown.edu/)
+* [ML] [(2018-Fall) Staford CS229: Machine Learning by Andrew Ng (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+* [Git] Git from the Bottom up (https://jwiegley.github.io/git-from-the-bottom-up/)
+
+[[back to top](#ml-bookmarks)]
+
+
+## Computer Science
+
+* [CS.Prog] Stanford CS106B: Programming Abstractions in C++ 
+   ([Course](https://online.stanford.edu/courses/cs106b-programming-abstractions),
+    [SEE](https://see.stanford.edu/course/cs106b),
+    [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWiqgyzwAz_uGLSHsuYZlMX))
+* [CS.Prog] Stanford CS106X: Programming Abstractoins in C++ (Accelerated)
+   ([Course](https://online.stanford.edu/courses/cs106x-programming-abstractions-accelerated),
+    [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdVmbGH6Jp-9twXPbi5J_IBT))
+* [CS.Sys] Stanford CS107: Computer Organization and Systems (C)
+   ([Course](https://online.stanford.edu/courses/cs107-computer-organization-and-systems),
+    [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN))
+* [CS.Sys] Stanford CS108: Object-Oriented Systems Design
+   ([Course](https://online.stanford.edu/courses/cs108-object-oriented-systems-design))
+* [CS.Sys] Stanford CS110: Principles of Computer Systems
+   ([Course](https://online.stanford.edu/courses/cs110-principles-computer-systems),
+    [YouTube](https://www.youtube.com/playlist?list=PLai-xIlqf4JmTNR9aPCwIAOySs1GOm8sQ))
+* [CS.Network] Stanford CS144: Introduction to Computer Networking
+   ([Course](https://online.stanford.edu/courses/cs144-introduction-computer-networking),
+    [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS))
+* [CS.Sys] Stanford CS212: Operating Systems and Systems Programming
+   ([Course](https://online.stanford.edu/courses/cs212-operating-systems-and-systems-programming))
+* [CS.Web] Stanford CS142: Web Applications
+   ([Course](https://online.stanford.edu/courses/cs142-web-applications))
+* [CS.Web] Harvard CS50 and CS75
+  - Harvard CS50x: Intro CS & Web (https://cs50.harvard.edu/x/2021/)
+  - Harvard CS50: Intro CS & Web (https://cs50.harvard.edu/college/2021/spring/)
+  - Harvard CS50: Web Programming with Python and JavaScript
+     (https://cs50.harvard.edu/web/2020/,
+      [YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8),
+      [YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu))
+  - Harvard CS75: Building Dynamic Website by David J Malan
+     ([CS75.TV](http://cs75.tv/2012/summer/),
+      [YouTube](https://www.youtube.com/playlist?list=PLSlcu3sMjsc9QoiHpdEWF246A4eVCjBUQ))
+  - [Web] Deep Dive into Modern Web Development (https://fullstackopen.com/en/)
+  - [Web] https://javascript.info/
+  - [Web] (MDN) Mozilla Developer Network (https://developer.mozilla.org/en-US/docs/Learn)
+* [CS.DB] Stanford CS145: Data Management and Data Systems
+   ([Course](https://online.stanford.edu/courses/cs145-data-management-and-data-systems),
+    [YouTube](https://www.youtube.com/playlist?list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0),
+    [YouTube](https://www.youtube.com/playlist?list=PL9ysvtVnryGpnIj9rcIqNDxakUn6v72Hm))
+* [CS.DB] CMU 15-445/645: Database Systems
+  - Fall 2019 ([Course](https://15445.courses.cs.cmu.edu/fall2019/), [YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi))
+  - Fall 2021 ([Course](https://15445.courses.cs.cmu.edu/fall2021/), [YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG))
+<!--
+* [CS.DB] CMU 15-721: Advanced Database Systems (Spring 2020)
+   ([Course](https://15721.courses.cs.cmu.edu/spring2020/), [YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O))
+* [CS.Sys/Data] Stanford CS245: Principles of Data-Intensive Systems
+   ([Course](https://online.stanford.edu/courses/cs245-principles-data-intensive-systems), NoYouTube)
+* [CS.Sys/Data] Stanford CS246: Mining Massive Datasets
+   ([Course](https://online.stanford.edu/courses/cs246-mining-massive-data-sets),
+    [Web](http://mmds.org/),
+    [YouTube](https://www.youtube.com/watch?v=xoA5v9AO7S0&list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV),
+    [YouTube](https://www.youtube.com/watch?v=jofiaetm5bY&list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR))
+-->
+
+[[back to top](#ml-bookmarks)]
+
+
+## System Design
+
+* [SystemDesign] https://github.com/donnemartin/system-design-primer
+* [MLD] Stanford CS329S: Machine Learning System Design, Spring 2021
+  + https://stanford-cs329s.github.io/syllabus.html
+
+
+[[back to top](#ml-bookmarks)]
+
+
+## Useful Resources
 
 * [DS] [52 Week Curriculum for Data Science in 2021 by Terrence Shin](https://towardsdatascience.com/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160)
 * [Stat] StatQuest (https://statquest.org/video-index/)
@@ -199,90 +312,6 @@ machine learning resources on the web -- personally biased.
 * [GeoDL,GraphDL] Geometric Deep Learning - paper, blog, keynotes, lectures (https://geometricdeeplearning.com/)
  * [GraphDL] [Introducton to Graph Deep Learning and Where It May Be Heading](https://medium.com/syncedreview/introduction-to-deep-learning-for-graphs-and-where-it-may-be-heading-75d48f42a322)
  * [GraphML] [How to Get Started with Graph Machine Learning](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a)
-
-[[back to top](#ml-bookmarks)]
-
-
-## Getting Started
-
-* [Advice] Data Science Career Advice of College Students (https://www.springboard.com/blog/data-scientist-training-college/)
-* [DS.ML] [52 Week Curriculum for Data Science in 2021 by Terrence Shin](https://towardsdatascience.com/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160)
-* [Stat] StatQuest (https://statquest.org/video-index/)
-* [Math] Mathematics for Machine Learning (https://mml-book.github.io/)
-* [Math.DS.ML] [Great contents from 3Blue1Brown on YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-* [LinAlg] Linear Algebra Video Lectures by Strang at MIT in 2010 (https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
-* [LinAlg] Computational Linear Algebra for Coders (https://github.com/fastai/numerical-linear-algebra) ([YouTube](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY))
-* [DS.ML] Python Data Science Handbook (https://jakevdp.github.io/PythonDataScienceHandbook/)
-* [PhD] Do I Need to Go to University? (http://colah.github.io/posts/2020-05-University/)
-* [PhD] A Survival Guide to a PhD (http://karpathy.github.io/2016/09/07/phd/)
-* [ML] Probabilistic Programming and Bayesian Methods for Hackers by Davidson-Pilon (with PyMC3 and TFP)
-  + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
-  + https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
-* [ML] Introduction to Statistical Learning (ISLR) by James, Witten, Hastie and Tibshirani (https://www.statlearning.com/)
-* [DS] Data Science @OSSU (https://github.com/ossu/data-science)
-* [CS] Computer Science @OSSU (https://github.com/ossu/computer-science)
-* [Prob.Stat] Seeing Theory: A Visual Introduction to Probability and Statistics (https://seeing-theory.brown.edu/)
-* [ML] [(2018-Fall) Staford CS229: Machine Learning by Andrew Ng (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-* [Git] Git from the Bottom up (https://jwiegley.github.io/git-from-the-bottom-up/)
-
-[[back to top](#ml-bookmarks)]
-
-
-## Good to Know CS
-
-* [CS.Prog] Stanford CS106B: Programming Abstractions in C++ 
-   ([Course](https://online.stanford.edu/courses/cs106b-programming-abstractions),
-    [SEE](https://see.stanford.edu/course/cs106b),
-    [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWiqgyzwAz_uGLSHsuYZlMX))
-* [CS.Prog] Stanford CS106X: Programming Abstractoins in C++ (Accelerated)
-   ([Course](https://online.stanford.edu/courses/cs106x-programming-abstractions-accelerated),
-    [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdVmbGH6Jp-9twXPbi5J_IBT))
-* [CS.Sys] Stanford CS107: Computer Organization and Systems (C)
-   ([Course](https://online.stanford.edu/courses/cs107-computer-organization-and-systems),
-    [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN))
-* [CS.Sys] Stanford CS108: Object-Oriented Systems Design
-   ([Course](https://online.stanford.edu/courses/cs108-object-oriented-systems-design))
-* [CS.Sys] Stanford CS110: Principles of Computer Systems
-   ([Course](https://online.stanford.edu/courses/cs110-principles-computer-systems),
-    [YouTube](https://www.youtube.com/playlist?list=PLai-xIlqf4JmTNR9aPCwIAOySs1GOm8sQ))
-* [CS.Network] Stanford CS144: Introduction to Computer Networking
-   ([Course](https://online.stanford.edu/courses/cs144-introduction-computer-networking),
-    [YouTube](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS))
-* [CS.Sys] Stanford CS212: Operating Systems and Systems Programming
-   ([Course](https://online.stanford.edu/courses/cs212-operating-systems-and-systems-programming))
-* [CS.Web] Stanford CS142: Web Applications
-   ([Course](https://online.stanford.edu/courses/cs142-web-applications))
-* [CS.Web] Harvard CS50 and CS75
-  - Harvard CS50x: Intro CS & Web (https://cs50.harvard.edu/x/2021/)
-  - Harvard CS50: Intro CS & Web (https://cs50.harvard.edu/college/2021/spring/)
-  - Harvard CS50: Web Programming with Python and JavaScript
-     (https://cs50.harvard.edu/web/2020/,
-      [YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8),
-      [YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu))
-  - Harvard CS75: Building Dynamic Website by David J Malan
-     ([CS75.TV](http://cs75.tv/2012/summer/),
-      [YouTube](https://www.youtube.com/playlist?list=PLSlcu3sMjsc9QoiHpdEWF246A4eVCjBUQ))
-  - [Web] Deep Dive into Modern Web Development (https://fullstackopen.com/en/)
-  - [Web] https://javascript.info/
-  - [Web] (MDN) Mozilla Developer Network (https://developer.mozilla.org/en-US/docs/Learn)
-* [CS.DB] Stanford CS145: Data Management and Data Systems
-   ([Course](https://online.stanford.edu/courses/cs145-data-management-and-data-systems),
-    [YouTube](https://www.youtube.com/playlist?list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0),
-    [YouTube](https://www.youtube.com/playlist?list=PL9ysvtVnryGpnIj9rcIqNDxakUn6v72Hm))
-* [CS.DB] CMU 15-445/645: Database Systems
-  - Fall 2019 ([Course](https://15445.courses.cs.cmu.edu/fall2019/), [YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi))
-  - Fall 2021 ([Course](https://15445.courses.cs.cmu.edu/fall2021/), [YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG))
-<!--
-* [CS.DB] CMU 15-721: Advanced Database Systems (Spring 2020)
-   ([Course](https://15721.courses.cs.cmu.edu/spring2020/), [YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O))
-* [CS.Sys/Data] Stanford CS245: Principles of Data-Intensive Systems
-   ([Course](https://online.stanford.edu/courses/cs245-principles-data-intensive-systems), NoYouTube)
-* [CS.Sys/Data] Stanford CS246: Mining Massive Datasets
-   ([Course](https://online.stanford.edu/courses/cs246-mining-massive-data-sets),
-    [Web](http://mmds.org/),
-    [YouTube](https://www.youtube.com/watch?v=xoA5v9AO7S0&list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV),
-    [YouTube](https://www.youtube.com/watch?v=jofiaetm5bY&list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR))
--->
 
 [[back to top](#ml-bookmarks)]
 
