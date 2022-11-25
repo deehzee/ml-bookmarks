@@ -195,8 +195,11 @@ machine learning resources on the web -- personally biased.
 ## System Design
 
 * [SystemDesign] https://github.com/donnemartin/system-design-primer
+* [SystemDesign] ByteByteGo Blog by Alex Xu (https://blog.bytebytego.com/)
 * [MLD] Stanford CS329S: Machine Learning System Design, Spring 2021
   + https://stanford-cs329s.github.io/syllabus.html
+* [DistSys] An Introduction to Distributed Systems (https://github.com/aphyr/distsys-class)
+* [DistSys] Distributed Systems for Fun and Profit Book (http://book.mixu.net/distsys/index.html)
 
 
 [[back to top](#ml-bookmarks)]
@@ -255,12 +258,14 @@ machine learning resources on the web -- personally biased.
 * [ML.MLE.MLD] Machine Learning Engineering by Andriy Burkov (http://www.mlebook.com/wiki/doku.php)
 * [ML.MLE.MLD] Machine Learning Yearnings by Andrew Ng (Downloadable from https://www.deeplearning.ai/programs/)
 * [ML] Approacing Almost Any Machine Learning Problem by Abhishek Thakur (https://github.com/abhishekkrthakur/approachingalmost)
+* [DistSys] Distributed Systems for Fun and Profit Book (http://book.mixu.net/distsys/index.html)
 
 [[back to top](#ml-bookmarks)]
 
 
 ## Articles / Blogs / Talks
 
+* [SystemDesign] ByteByteGo Blog by Alex Xu (https://blog.bytebytego.com/)
 * [NLP] NLP Overview (https://nlpoverview.com/)
 * Lilian Weng's Blog (https://lilianweng.github.io/lil-log/)
   + [DL] An Overview for Deep Learning for Curious People (https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
