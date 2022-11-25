@@ -315,8 +315,9 @@ machine learning resources on the web -- personally biased.
 * [ML.GraphNN] [Theoretical Foundations of Graph Neural Networks by Petar Veličković on YouTube](https://www.youtube.com/watch?v=uF53xsT7mjc)
 * [GraphML] GML in-depth: three forms of self-supervised learning (https://graphml.substack.com/p/self-supervised-learning)
 * [GeoDL,GraphDL] Geometric Deep Learning - paper, blog, keynotes, lectures (https://geometricdeeplearning.com/)
- * [GraphDL] [Introducton to Graph Deep Learning and Where It May Be Heading](https://medium.com/syncedreview/introduction-to-deep-learning-for-graphs-and-where-it-may-be-heading-75d48f42a322)
- * [GraphML] [How to Get Started with Graph Machine Learning](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a)
+* [GraphDL] [Introducton to Graph Deep Learning and Where It May Be Heading](https://medium.com/syncedreview/introduction-to-deep-learning-for-graphs-and-where-it-may-be-heading-75d48f42a322)
+* [GraphML] [How to Get Started with Graph Machine Learning](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a)
+* [SystemDesign] (Tiktok's Recommendation System) Monolith: Real Time Recommendation System with Collisionless Embedding Table (https://arxiv.org/abs/2209.07663)
 
 [[back to top](#ml-bookmarks)]
 
