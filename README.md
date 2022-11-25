@@ -294,6 +294,8 @@ machine learning resources on the web -- personally biased.
   + [PhD] Do I Need to Go to University? (http://colah.github.io/posts/2020-05-University/)
 * [NLP] Sebastian Ruder's Blog (https://ruder.io/)
   + [DL] https://ruder.io/optimizing-gradient-descent/
+* [ML] Sebastian Raschka's Blog (https://sebastianraschka.com/blog/)
+  + [DL] A Short Chronology of Deep Learning for Tabular Data (https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html)
 * [DL] [Understanding GRU Networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be)
 * [ML.Interview] [4 Types of Interview Questions for DS & ML](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b)
 * [ML] [Feature Engineering Deep Diving: Binning & Encoding](https://towardsdatascience.com/feature-engineering-deep-dive-into-encoding-and-binning-techniques-5618d55a6b38)
