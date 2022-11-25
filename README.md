@@ -87,6 +87,7 @@ machine learning resources on the web -- personally biased.
 
 ## Computer Vision
 
+* [CV] Introduction to Computer Vision | Georgia Tech CS 4476 Fall 2019 edition (https://dellaert.github.io/19F-4476/schedule.html)
 * [CV.DL] [(2020-Fall) UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision (YouTube)](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 * [ML.GNN] Stanford CS224W: Machine Learning with Graphs (https://cs224w.stanford.edu)
   + [Stanford CS224W: Machine Learning with Graphs by Jure Leskovec 2021-Spring (YouTube)](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
