@@ -211,7 +211,7 @@ machine learning resources on the web -- personally biased.
 * [Math] Mathematics for Machine Learning (https://mml-book.github.io/)
 * [Math.DS.ML] [Great contents from 3Blue1Brown on YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [LinAlg] Linear Algebra Video Lectures by Strang at MIT in 2010 (https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
-* [LinAlg] Computational Linear Algebra for Coders (https://github.com/fastai/numerical-linear-algebra)([YouTube](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY))
+* [LinAlg] Computational Linear Algebra for Coders (https://github.com/fastai/numerical-linear-algebra) ([YouTube](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY))
 * [DS.ML] Python Data Science Handbook (https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [PhD] Do I Need to Go to University? (http://colah.github.io/posts/2020-05-University/)
 * [PhD] A Survival Guide to a PhD (http://karpathy.github.io/2016/09/07/phd/)
